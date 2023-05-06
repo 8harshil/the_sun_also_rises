@@ -1,0 +1,1393 @@
+,Sentence,sentiment,CompScore,PosScore,NegScore,NeuScore,PosFlag,NegFlag,NeuFlag
+0, Robert Cohn was once middleweight boxing champion of Princeton.,0.5994,0.5994,0.328,0.0,0.672,1,0,0
+1,"Do not think that I am very much impressed by that as a boxing title, but it meant a lot to Cohn.",0.2935,0.2935,0.108,0.0,0.892,1,0,0
+2,"There was a certain inner comfort in knowing he could knock down anybody who was snooty to him, although, being very shy and a thoroughly nice boy, he never fought except in the gym.",0.7478,0.7478,0.248,0.059,0.693,1,0,0
+3,"Spider Kelly taught all his young gentlemen to box like featherweights, no matter whether they weighed one hundred and five or two hundred and five pounds.",0.1027,0.1027,0.125,0.076,0.799,1,0,0
+4,But it seemed to fit Cohn.,0.5023,0.5023,0.394,0.0,0.606,1,0,0
+5,He was so good that Spider promptly overmatched him and got his nose permanently flattened.,0.5777,0.5777,0.211,0.0,0.789,1,0,0
+6,"This increased Cohn’s distaste for boxing, but it gave him a certain satisfaction of some strange sort, and it certainly improved his nose.",0.9201,0.9201,0.457,0.066,0.478,1,0,0
+7,They did not even remember that he was middleweight boxing champion.,0.5994,0.5994,0.281,0.0,0.719,1,0,0
+8,"Robert Cohn was a member, through his father, of one of the richest Jewish families in New York, and through his mother of one of the oldest.",0.5267,0.5267,0.12,0.0,0.88,1,0,0
+9,"At the military school where he prepped for Princeton, and played a very good end on the football team, no one had made him race-conscious.",0.5256,0.5256,0.194,0.076,0.729,1,0,0
+10,"He was a nice boy, a friendly boy, and very shy, and it made him bitter.",0.228,0.228,0.284,0.241,0.474,1,0,0
+11,It was his money and he discovered he liked the authority of editing.,0.4767,0.4767,0.272,0.0,0.728,1,0,0
+12,He had been taken in hand by a lady who hoped to rise with the magazine.,0.7003,0.7003,0.309,0.0,0.691,1,0,0
+13,"She was very forceful, and Cohn never had a chance of not being taken in hand.",0.3527,0.3527,0.178,0.097,0.725,1,0,0
+14,Also he was sure that he loved her.,0.7351,0.7351,0.508,0.0,0.492,1,0,0
+15,"During these three years, the first spent in travel, the last two in Paris, Robert Cohn had two friends, Braddocks and myself.",0.4767,0.4767,0.129,0.0,0.871,1,0,0
+16,Braddocks was his literary friend.,0.4939,0.4939,0.444,0.0,0.556,1,0,0
+17,I was his tennis friend.,0.4939,0.4939,0.516,0.0,0.484,1,0,0
+18,"The lady who had him, her name was Frances, found toward the end of the second year that her looks were going, and her attitude toward Robert changed from one of careless possession and exploitation to the absolute determination that he should marry her.",0.0516,0.0516,0.057,0.053,0.89,1,0,0
+19,"He was fairly happy, except that, like many people living in Europe, he would rather have been in America, and he had discovered writing.",0.7351,0.7351,0.22,0.0,0.78,1,0,0
+20,"He wrote a novel, and it was not really such a bad novel as the critics later called it, although it was a very poor novel.",0.5208,0.5208,0.306,0.172,0.522,1,0,0
+21,"He read many books, played bridge, played tennis, and boxed at a local gymnasium.",0.5859,0.5859,0.304,0.0,0.696,1,0,0
+22,He wanted to get out of town and get in a good walk.,0.4404,0.4404,0.209,0.0,0.791,1,0,0
+23,"We could go up to Bruges, or to the Ardennes.” Cohn looked relieved.",0.3818,0.3818,0.178,0.0,0.822,1,0,0
+24,"Didn’t you see the way she looked?” “Oh, well,” I said, “let’s go to Senlis.” “Don’t get sore.” “I’m not sore.",0.2755,0.2755,0.1,0.0,0.9,1,0,0
+25,"Senlis is a good place and we can stay at the Grand Cerf and take a hike in the woods and come home.” “Good, that will be fine.” “Well, I’ll see you to-morrow at the courts,” I said.",0.7096,0.7096,0.152,0.0,0.848,1,0,0
+26,"“You are not sore, are you, Jake?” He turned with the paper in his hand.",0.6497,0.6497,0.29,0.0,0.71,1,0,0
+27,I rather liked him and evidently she led him quite a life.,0.4215,0.4215,0.237,0.0,0.763,1,0,0
+28,"CHAPTER                                    2  That winter Robert Cohn went over to America with his novel, and it was accepted by a fairly good publisher.",0.743,0.743,0.3,0.0,0.7,1,0,0
+29,"He was more enthusiastic about America than ever, and he was not so simple, and he was not so nice.",0.1423,0.1423,0.143,0.12,0.737,1,0,0
+30,The publishers had praised his novel pretty highly and it rather went to his head.,0.8271,0.8271,0.42,0.0,0.58,1,0,0
+31,"Then several women had put themselves out to be nice to him, and his horizons had all shifted.",0.4215,0.4215,0.141,0.0,0.859,1,0,0
+32,"Also, playing for higher stakes than he could afford in some rather steep bridge games with his New York connections, he had held cards and won several hundred dollars.",0.6705,0.6705,0.169,0.0,0.831,1,0,0
+33,"It recounts splendid imaginary amorous adventures of a perfect English gentleman in an intensely romantic land, the scenery of which is very well described.",0.9523,0.9523,0.515,0.0,0.485,1,0,0
+34,"For a man to take it at thirty-four as a guide-book to what life holds is about as safe as it would be for a man of the same age to enter Wall Street direct from a French convent, equipped with a complete set of the more practical Alger books.",0.4404,0.4404,0.062,0.0,0.938,1,0,0
+35,"“Did you come in to cheer me up?” “Would you like to go to South America, Jake?” he asked.",0.7319,0.7319,0.266,0.0,0.734,1,0,0
+36,"You can see all the South Americans you want in Paris anyway.” “They’re not the real South Americans.” “They look awfully real to me.” I had a boat train to catch with a week’s mail stories, and only half of them written.",0.0772,0.0772,0.033,0.0,0.967,1,0,0
+37,"And it would be more fun with two of us.” “No,” I said, “I like this town and I go to Spain in the summer-time.” “All my life I’ve wanted to go on a trip like that,” Cohn said.",0.8221,0.8221,0.207,0.0,0.793,1,0,0
+38,“You can go anywhere you want.,0.0772,0.0772,0.206,0.0,0.794,1,0,0
+39,“All countries look just like the moving pictures.” But I felt sorry for him.,0.0772,0.0772,0.123,0.102,0.775,1,0,0
+40,I want to go back in the country in South America.,0.0772,0.0772,0.126,0.0,0.874,1,0,0
+41,"We could have a great trip.” “Did you ever think about going to British East Africa to shoot?” “No, I wouldn’t like that.” “I’d go there with you.” “No; that doesn’t interest me.” “That’s because you never read a book about it.",0.8625,0.8625,0.211,0.0,0.789,1,0,0
+42,"Go on and read a book all full of love affairs with the beautiful shiny black princesses.” “I want to go to South America.” He had a hard, Jewish, stubborn streak.",0.743,0.743,0.251,0.109,0.64,1,0,0
+43,I had discovered that was the best way to get rid of friends.,0.8074,0.8074,0.422,0.0,0.578,1,0,0
+44,"It is very important to discover graceful exits like that in the newspaper business, where it is such an important part of the ethics that you should never seem to be working.",0.8265,0.8265,0.257,0.0,0.743,1,0,0
+45,"“This is a good place,” he said.",0.4404,0.4404,0.367,0.0,0.633,1,0,0
+46,"“There’s a lot of liquor,” I agreed.",0.2732,0.2732,0.344,0.0,0.656,1,0,0
+47,"I’m through worrying.” “Well, I want to go to South America.” “Listen, Robert, going to another country doesn’t make any difference.",0.0772,0.0772,0.064,0.0,0.936,1,0,0
+48,This is a good town.,0.4404,0.4404,0.492,0.0,0.508,1,0,0
+49,I walked alone all one night and nothing happened except a bicycle cop stopped me and asked to see my papers.” “Wasn’t the town nice at night?” “I don’t care for Paris.” So there you were.,0.4767,0.4767,0.15,0.098,0.752,1,0,0
+50,I put my hand on his shoulder.,0.4939,0.4939,0.39,0.0,0.61,1,0,0
+51,He smiled and blinked.,0.5423,0.5423,0.538,0.0,0.462,1,0,0
+52,"CHAPTER                                    3  It was a warm spring night and I sat at a table on the terrace of the Napolitain after Robert had gone, watching it get dark and the electric signs come on, and the red and green stop-and-go traffic-signal, and the crowd going by, and the horse-cabs clippety-clopping along at the edge of the solid taxi traffic, and the _poules_ going by, singly and in pairs, looking for the evening meal.",0.3612,0.3612,0.05,0.0,0.95,1,0,0
+53,"You never know in this town.” “Don’t you like Paris?” “No.” “Why don’t you go somewhere else?” “Isn’t anywhere else.” “You’re happy, all right.” “Happy, hell!” Pernod is greenish imitation absinthe.",0.7815,0.7815,0.191,0.0,0.809,1,0,0
+54,"It tastes like licorice and it has a good uplift, but it drops you just as far.",0.4019,0.4019,0.209,0.0,0.791,1,0,0
+55,With her mouth closed she was a rather pretty girl.,0.4939,0.4939,0.286,0.0,0.714,1,0,0
+56,I hailed a horse-cab and the driver pulled up at the curb.,0.2263,0.2263,0.174,0.0,0.826,1,0,0
+57,She looked up to be kissed.,0.3818,0.3818,0.342,0.0,0.658,1,0,0
+58,She touched me with one hand and I put her hand away.,0.7506,0.7506,0.416,0.0,0.584,1,0,0
+59,"“This is no great thing of a restaurant.” “No,” I said.",0.4404,0.4404,0.308,0.165,0.526,1,0,0
+60,Why don’t you keep the cab and go on?” I had picked her up because of a vague sentimental idea that it would be nice to eat with some one.,0.5719,0.5719,0.162,0.044,0.794,1,0,0
+61,Georgette cheered up a little under the food.,0.5106,0.5106,0.355,0.0,0.645,1,0,0
+62,"“It isn’t chic, but the food is all right.” “Better than you eat in Liège.” “Brussels, you mean.” We had another bottle of wine and Georgette made a joke.",0.5187,0.5187,0.143,0.0,0.857,1,0,0
+63,"“You’re not a bad type,” she said.",0.431,0.431,0.363,0.0,0.637,1,0,0
+64,We get on well.,0.2732,0.2732,0.412,0.0,0.588,1,0,0
+65,"Jacob Barnes!” “It’s a friend calling me,” I explained, and went out.",0.5411,0.5411,0.28,0.0,0.72,1,0,0
+66,"There was Braddocks at a big table with a party: Cohn, Frances Clyne, Mrs. Braddocks, several people I did not know.",0.4019,0.4019,0.137,0.0,0.863,1,0,0
+67,She was tall and had a smile.,0.3612,0.3612,0.333,0.0,0.667,1,0,0
+68,"“Come in and have coffee with us, Barnes.” “Right.” “And bring your friend,” said Mrs. Braddocks laughing.",0.4939,0.4939,0.167,0.0,0.833,1,0,0
+69,She was a Canadian and had all their easy social graces.,0.6705,0.6705,0.407,0.0,0.593,1,0,0
+70,"“I wish to present my fiancée, Mademoiselle Georgette Leblanc,” I said.",0.4019,0.4019,0.231,0.0,0.769,1,0,0
+71,"Georgette smiled that wonderful smile, and we shook hands all round.",0.8519,0.8519,0.536,0.077,0.387,1,0,0
+72,"Surely he did,” insisted Mrs. Braddocks, who in the excitement of talking French was liable to have no idea what she was saying.",0.5994,0.5994,0.216,0.078,0.707,1,0,0
+73,"“Oh, it was a joke, then,” Mrs. Braddocks said.",0.296,0.296,0.239,0.0,0.761,1,0,0
+74,"“To laugh at.” “Did you hear that, Henry?” Mrs. Braddocks called down the table to Braddocks.",0.5574,0.5574,0.194,0.0,0.806,1,0,0
+75,"Barnes introduced his fiancée as Mademoiselle Leblanc, and her name is actually Hobin.” “Of course, darling.",0.5859,0.5859,0.202,0.0,0.798,1,0,0
+76,"Mademoiselle Hobin, I’ve known her for a very long time.” “Oh, Mademoiselle Hobin,” Frances Clyne called, speaking French very rapidly and not seeming so proud and astonished as Mrs. Braddocks at its coming out really French.",0.7817,0.7817,0.172,0.0,0.828,1,0,0
+77,Do you like it here?,0.3612,0.3612,0.385,0.0,0.615,1,0,0
+78,"You love Paris, do you not?” “Who’s she?” Georgette turned to me.",0.6767,0.6767,0.293,0.0,0.707,1,0,0
+79,"“Do I have to talk to her?” She turned to Frances, sitting smiling, her hands folded, her head poised on her long neck, her lips pursed ready to start talking again.",0.7579,0.7579,0.217,0.0,0.783,1,0,0
+80,"“No, I don’t like Paris.",0.3612,0.3612,0.455,0.0,0.545,1,0,0
+81,I find it so extraordinarily clean.,0.4549,0.4549,0.427,0.0,0.573,1,0,0
+82,But perhaps you have not been here very long.” “I’ve been here long enough.” “But it does have nice people in it.,0.5719,0.5719,0.15,0.0,0.85,1,0,0
+83,One must grant that.” Georgette turned to me.,0.3612,0.3612,0.263,0.0,0.737,1,0,0
+84,"“You have nice friends.” Frances was a little drunk and would have liked to have kept it up but the coffee came, and Lavigne with the liqueurs, and after that we all went out and started for Braddocks’s dancing-club.",0.3064,0.3064,0.094,0.038,0.867,1,0,0
+85,"“I wish people would come earlier,” Braddocks said.",0.4019,0.4019,0.278,0.0,0.722,1,0,0
+86,The proprietor got up on a high stool beside the dancing-floor and began to play the accordion.,0.34,0.34,0.138,0.0,0.862,1,0,0
+87,He had a string of bells around one of his ankles and beat time with his foot as he played.,0.34,0.34,0.118,0.0,0.882,1,0,0
+88,"“What a box to sweat in!” “It’s hot.” “Hot, my God!” “Take off your hat.” “That’s a good idea.” Some one asked Georgette to dance, and I went over to the bar.",0.5399,0.5399,0.111,0.0,0.889,1,0,0
+89,It was really very hot and the accordion music was pleasant in the hot night.,0.5106,0.5106,0.191,0.0,0.809,1,0,0
+90,"I drank a beer, standing in the doorway and getting the cool breath of wind from the street.",0.3182,0.3182,0.133,0.0,0.867,1,0,0
+91,The policeman standing by the door looked at me and smiled.,0.5423,0.5423,0.259,0.0,0.741,1,0,0
+92,She looked very lovely and she was very much with them.,0.624,0.624,0.29,0.0,0.71,1,0,0
+93,"I know they are supposed to be amusing, and you should be tolerant, but I wanted to swing on one, any one, anything to shatter that superior, simpering composure.",0.7964,0.7964,0.252,0.0,0.748,1,0,0
+94,They are like that.,0.3612,0.3612,0.455,0.0,0.545,1,0,0
+95,"Don’t you?” “Oh, how charmingly you get angry,” he said.",0.4939,0.4939,0.262,0.0,0.738,1,0,0
+96,“I wish I had that faculty.” I got up and walked over toward the dancing-floor.,0.4019,0.4019,0.184,0.0,0.816,1,0,0
+97,"“I just thought perhaps I was going to throw up.” “Your fiancée is having a great success,” Mrs. Braddocks looked out on the floor where Georgette was dancing in the arms of the tall, dark one, called Lett.",0.6249,0.6249,0.105,0.0,0.895,1,0,0
+98,He looked a great deal as his compatriot must have looked when he saw the promised land.,0.765,0.765,0.32,0.0,0.68,1,0,0
+99,"But he had that look of eager, deserving expectation.",0.5023,0.5023,0.289,0.0,0.711,1,0,0
+100,"She wore a slipover jersey sweater and a tweed skirt, and her hair was brushed back like a boy’s.",0.3612,0.3612,0.143,0.0,0.857,1,0,0
+101,"She was built with curves like the hull of a racing yacht, and you missed none of it with that wool jersey.",0.0772,0.0772,0.105,0.093,0.802,1,0,0
+102,"“It’s a fine crowd you’re with, Brett,” I said.",0.2023,0.2023,0.231,0.0,0.769,1,0,0
+103,“Aren’t they lovely?,0.5859,0.5859,0.655,0.0,0.345,1,0,0
+104,"And you, my dear.",0.3818,0.3818,0.464,0.0,0.536,1,0,0
+105,"Where did you get it?” “At the Napolitain.” “And have you had a lovely evening?” “Oh, priceless,” I said.",0.6322,0.6322,0.206,0.0,0.794,1,0,0
+106,Brett laughed.,0.4588,0.4588,0.75,0.0,0.25,1,0,0
+107,"Look at Frances there, and Jo.” This for Cohn’s benefit.",0.4588,0.4588,0.25,0.0,0.75,1,0,0
+108,She laughed again.,0.4588,0.4588,0.6,0.0,0.4,1,0,0
+109,"“You’re wonderfully sober,” I said.",0.5994,0.5994,0.565,0.0,0.435,1,0,0
+110,"And when one’s with the crowd I’m with, one can drink in such safety, too.” The music started and Robert Cohn said: “Will you dance this with me, Lady Brett?” Brett smiled at him.",0.743,0.743,0.164,0.0,0.836,1,0,0
+111,"“I’ve promised to dance this with Jacob,” she laughed.",0.6705,0.6705,0.44,0.0,0.56,1,0,0
+112,"“I suppose you like to add them up.” “Don’t talk like a fool.” “You do.” “Oh, well.",0.7269,0.7269,0.353,0.0,0.647,1,0,0
+113,We were dancing to the accordion and some one was playing the banjo.,0.2023,0.2023,0.13,0.0,0.87,1,0,0
+114,It was hot and I felt happy.,0.5719,0.5719,0.425,0.0,0.575,1,0,0
+115,She’s well taken care of.” “Do you want to?” “Would I ask you if I didn’t want to?” We left the floor and I took my coat off a hanger on the wall and put it on.,0.7399,0.7399,0.222,0.0,0.778,1,0,0
+116,"“If she goes out with one of those gentlemen, will you save this for me?” “C’est entendu, Monsieur,” the patronne said.",0.4939,0.4939,0.138,0.0,0.862,1,0,0
+117,She said good night and took my arm.,0.4404,0.4404,0.293,0.0,0.707,1,0,0
+118,"“Oh, yes.” “No taxis.” “We could walk up to the Pantheon and get one.” “Come on and we’ll get a drink in the pub next door and send for one.” “You wouldn’t walk across the street.” “Not if I could help it.” We went into the next bar and I sent a waiter for a taxi.",0.4019,0.4019,0.051,0.0,0.949,1,0,0
+119,Brett pressed my hand hard.,0.4215,0.4215,0.421,0.184,0.395,1,0,0
+120,"“Oh, darling, I’ve been so miserable,” Brett said.",0.5859,0.5859,0.352,0.0,0.648,1,0,0
+121,"I saw her face in the lights from the open shops, then it was dark, then I saw her face clearly as we came out on the Avenue des Gobelins.",0.4019,0.4019,0.091,0.0,0.909,1,0,0
+122,Brett’s face was white and the long line of her neck showed in the bright light of the flares.,0.4404,0.4404,0.139,0.0,0.861,1,0,0
+123,The street was dark again and I kissed her.,0.3818,0.3818,0.271,0.0,0.729,1,0,0
+124,"Oh, darling, please understand!” “Don’t you love me?” “Love you?",0.899,0.899,0.61,0.0,0.39,1,0,0
+125,"My arm was around her and she was leaning back against me, and we were quite calm.",0.3804,0.3804,0.139,0.0,0.861,1,0,0
+126,"“And there’s not a damn thing we could do,” I said.",0.3089,0.3089,0.22,0.0,0.78,1,0,0
+127,"“I don’t want to go through that hell again.” “We’d better keep away from each other.” “But, darling, I have to see you.",0.34,0.34,0.261,0.15,0.588,1,0,0
+128,"Her eyes had different depths, sometimes they seemed perfectly flat.",0.6369,0.6369,0.318,0.0,0.682,1,0,0
+129,"I’m paying for it all now.” “Don’t talk like a fool,” I said.",0.3612,0.3612,0.2,0.0,0.8,1,0,0
+130,"“Besides, what happened to me is supposed to be funny.",0.4404,0.4404,0.244,0.0,0.756,1,0,0
+131,"I’ll lay you don’t.” “Well, let’s shut up about it.” “I laughed about it too, myself, once.” She wasn’t looking at me.",0.4588,0.4588,0.125,0.0,0.875,1,0,0
+132,“A friend of my brother’s came home that way from Mons.,0.4939,0.4939,0.242,0.0,0.758,1,0,0
+133,“Nobody ever knows anything.” I was pretty well through with the subject.,0.6486,0.6486,0.371,0.0,0.629,1,0,0
+134,"At one time or another I had probably considered it from most of its various angles, including the one that certain injuries or imperfections are a subject of merriment while remaining quite serious for the person possessing them.",0.6003,0.6003,0.137,0.04,0.823,1,0,0
+135,“It’s very funny.,0.4927,0.4927,0.615,0.0,0.385,1,0,0
+136,"And it’s a lot of fun, too, to be in love.” “Do you think so?” her eyes looked flat again.",0.5106,0.5106,0.155,0.0,0.845,1,0,0
+137,“I don’t mean fun that way.,0.5106,0.5106,0.398,0.0,0.602,1,0,0
+138,"In a way it’s an enjoyable feeling.” “No,” she said.",0.4404,0.4404,0.266,0.0,0.734,1,0,0
+139,I don’t think it is.” “Don’t you want to?” “I have to.” We were sitting now like two strangers.,0.4215,0.4215,0.192,0.0,0.808,1,0,0
+140,“Where do you want to go?” I asked.,0.0772,0.0772,0.178,0.0,0.822,1,0,0
+141,"“Boulevard Montparnasse.” We drove straight down, turning around the Lion de Belfort that guards the passing Montrouge trams.",0.2263,0.2263,0.101,0.0,0.899,1,0,0
+142,Brett looked straight ahead.,0.2263,0.2263,0.388,0.0,0.612,1,0,0
+143,She gave me her hand as she stepped down.,0.4939,0.4939,0.286,0.0,0.714,1,0,0
+144,Her hand was shaky.,0.3182,0.3182,0.451,0.268,0.282,1,0,0
+145,"“I got something fine to tell you.” “Hello, Zizi,” Brett said.",0.2023,0.2023,0.153,0.0,0.847,1,0,0
+146,"“I want you to meet a friend,” Zizi said.",0.0772,0.0772,0.157,0.0,0.843,1,0,0
+147,"“Count Mippipopolous, meet my friend Lady Ashley.” “How do you do?” said Brett.",0.4939,0.4939,0.211,0.0,0.789,1,0,0
+148,"“Well, does your Ladyship have a good time here in Paris?” asked Count Mippipopolous, who wore an elk’s tooth on his watch-chain.",0.4404,0.4404,0.127,0.0,0.873,1,0,0
+149,"“Paris is a fine town all right,” said the count.",0.2023,0.2023,0.184,0.0,0.816,1,0,0
+150,"“But I guess you have pretty big doings yourself over in London.” “Oh, yes,” said Brett.",0.4939,0.4939,0.186,0.0,0.814,1,0,0
+151,"She was rather splendid, you know.",0.5859,0.5859,0.432,0.0,0.568,1,0,0
+152,Wonderful command of the idiom.,0.5719,0.5719,0.481,0.0,0.519,1,0,0
+153,“Good night.” I said good night to Brett at the bar.,0.4404,0.4404,0.244,0.0,0.756,1,0,0
+154,The count was buying champagne.,0.296,0.296,0.355,0.0,0.645,1,0,0
+155,Thanks awfully.,0.4404,0.4404,0.744,0.0,0.256,1,0,0
+156,"He looked very fine, Marshal Ney in his top-boots, gesturing with his sword among the green new horse-chestnut leaves.",0.2716,0.2716,0.104,0.0,0.896,1,0,0
+157,I wished her good night and went up-stairs.,0.4404,0.4404,0.326,0.0,0.674,1,0,0
+158,It was a funny name.,0.4404,0.4404,0.492,0.0,0.508,1,0,0
+159,I felt sure I could remember anybody with a name like Aloysius.,0.5859,0.5859,0.407,0.0,0.593,1,0,0
+160,It was a good Catholic name.,0.4404,0.4404,0.42,0.0,0.58,1,0,0
+161,Like Zizi the Greek duke.,0.3612,0.3612,0.385,0.0,0.615,1,0,0
+162,The count was funny.,0.4404,0.4404,0.492,0.0,0.508,1,0,0
+163,I suppose it was funny.,0.4404,0.4404,0.492,0.0,0.508,1,0,0
+164,"_Le Toril_ was the better paper, so I started to read it.",0.4404,0.4404,0.225,0.0,0.775,1,0,0
+165,"Well, it was a rotten way to be wounded and flying on a joke front like the Italian.",0.3612,0.3612,0.308,0.149,0.543,1,0,0
+166,It had a funny name in Italian.,0.4404,0.4404,0.367,0.0,0.633,1,0,0
+167,That was funny.,0.4404,0.4404,0.592,0.0,0.408,1,0,0
+168,That was about the first funny thing.,0.4404,0.4404,0.326,0.0,0.674,1,0,0
+169,"Then he made that wonderful speech: “You, a foreigner, an Englishman” (any foreigner was an Englishman) “have given more than your life.” What a speech!",0.6114,0.6114,0.154,0.0,0.846,1,0,0
+170,I would like to have it illuminated to hang in the office.,0.3612,0.3612,0.2,0.0,0.8,1,0,0
+171,I try and play it along and just not make trouble for people.,0.5659,0.5659,0.318,0.0,0.682,1,0,0
+172,"Well, people were that way.",0.2732,0.2732,0.344,0.0,0.656,1,0,0
+173,The Catholic Church had an awfully good way of handling all that.,0.4927,0.4927,0.225,0.0,0.775,1,0,0
+174,"Good advice, anyway.",0.4404,0.4404,0.592,0.0,0.408,1,0,0
+175,"Then after a while it was better and I lay in bed and listened to the heavy trams go by and way down the street, and then I went to sleep.",0.4404,0.4404,0.097,0.0,0.903,1,0,0
+176,Half asleep I had been sure it was Georgette.,0.3182,0.3182,0.247,0.0,0.753,1,0,0
+177,"Don’t be cross, darling.",0.5859,0.5859,0.559,0.0,0.441,1,0,0
+178,Something like that.,0.3612,0.3612,0.556,0.0,0.444,1,0,0
+179,"I rather liked the count.” “Where did you go with him?” “Oh, everywhere.",0.4215,0.4215,0.203,0.0,0.797,1,0,0
+180,He was awfully nice about it.,0.4754,0.4754,0.382,0.0,0.618,1,0,0
+181,Told him I knew too many people in Biarritz.” Brett laughed.,0.4588,0.4588,0.25,0.0,0.75,1,0,0
+182,“That’s better.,0.4404,0.4404,0.744,0.0,0.256,1,0,0
+183,"Quite true, too.",0.4754,0.4754,0.607,0.0,0.393,1,0,0
+184,"So I asked him to bring me here.” She looked at me, her hand on the table, her glass raised.",0.4939,0.4939,0.151,0.0,0.849,1,0,0
+185,"“Don’t look like that,” she said.",0.3612,0.3612,0.333,0.0,0.667,1,0,0
+186,“Told him I was in love with you.,0.6369,0.6369,0.412,0.0,0.588,1,0,0
+187,"True, too.",0.4215,0.4215,0.737,0.0,0.263,1,0,0
+188,Don’t look like that.,0.3612,0.3612,0.455,0.0,0.545,1,0,0
+189,Like to go?” “Why not?” “I’d better go now.” “Why?” “Just wanted to see you.,0.7131,0.7131,0.314,0.0,0.686,1,0,0
+190,Want to get dressed and come down?,0.0772,0.0772,0.178,0.0,0.822,1,0,0
+191,"Absolutely.” “Good night, darling.” “Don’t be sentimental.” “You make me ill.” We kissed good night and Brett shivered.",0.6705,0.6705,0.256,0.0,0.744,1,0,0
+192,"“I’d better go,” she said.",0.4404,0.4404,0.42,0.0,0.58,1,0,0
+193,"“Good night, darling.” “You don’t have to go.” “Yes.” We kissed again on the stairs and as I called for the cordon the concierge muttered something behind her door.",0.3818,0.3818,0.088,0.0,0.912,1,0,0
+194,"It is awfully easy to be hard-boiled about everything in the daytime, but at night it is another thing.",0.2724,0.2724,0.104,0.0,0.896,1,0,0
+195,It was a fine morning.,0.2023,0.2023,0.375,0.0,0.625,1,0,0
+196,There was the pleasant early-morning feeling of a hot day.,0.5859,0.5859,0.407,0.0,0.593,1,0,0
+197,It felt pleasant to be going to work.,0.5106,0.5106,0.32,0.0,0.68,1,0,0
+198,"Up-stairs in the office I read the French morning papers, smoked, and then sat at the typewriter and got off a good morning’s work.",0.4404,0.4404,0.121,0.0,0.879,1,0,0
+199,I shared a taxi back from the Quai d’Orsay with Woolsey and Krum.,0.34,0.34,0.194,0.0,0.806,1,0,0
+200,"That’s the great place, isn’t it?” “Yes.",0.6249,0.6249,0.406,0.0,0.594,1,0,0
+201,“I can’t say I’ve played any this year.,0.34,0.34,0.255,0.0,0.745,1,0,0
+202,“I’ve got to file that line he got off this morning.” I put a two-franc piece in Krum’s hand.,0.4939,0.4939,0.167,0.0,0.833,1,0,0
+203,I want to get it.” I waved good-by.,0.0772,0.0772,0.206,0.0,0.794,1,0,0
+204,“Where do you want to eat?” “How about Wetzel’s?,0.168,0.168,0.172,0.0,0.828,1,0,0
+205,They’ve got good hors d’œuvres.” In the restaurant we ordered hors d’œuvres and beer.,0.4404,0.4404,0.182,0.0,0.818,1,0,0
+206,“Have any fun last night?” I asked.,0.5106,0.5106,0.398,0.0,0.602,1,0,0
+207,"I can’t get this second book going.” “That happens to everybody.” “Oh, I’m sure of that.",0.3182,0.3182,0.141,0.0,0.859,1,0,0
+208,"It gets me worried, though.” “Thought any more about going to South America?” “I mean that.” “Well, why don’t you start off?” “Frances.” “Well,” I said, “take her with you.” “She wouldn’t like it.",0.168,0.168,0.079,0.061,0.86,1,0,0
+209,That isn’t the sort of thing she likes.,0.4215,0.4215,0.286,0.0,0.714,1,0,0
+210,She likes a lot of people around.” “Tell her to go to hell.” “I can’t.,0.4215,0.4215,0.177,0.0,0.823,1,0,0
+211,I’ve got certain obligations to her.” He shoved the sliced cucumbers away and took a pickled herring.,0.2732,0.2732,0.123,0.0,0.877,1,0,0
+212,"She’s a nice girl,” I said.",0.4215,0.4215,0.483,0.0,0.517,1,0,0
+213,"Why?” “She’s a remarkably attractive woman.” “Isn’t she?” “There’s a certain quality about her, a certain fineness.",0.7752,0.7752,0.413,0.0,0.587,1,0,0
+214,"She seems to be absolutely fine and straight.” “She’s very nice.” “I don’t know how to describe the quality,” Cohn said.",0.2716,0.2716,0.095,0.0,0.905,1,0,0
+215,“I suppose it’s breeding.” “You sound as though you liked her pretty well.” “I do.,0.7184,0.7184,0.316,0.0,0.684,1,0,0
+216,"I shouldn’t wonder if I were in love with her.” “She’s a drunk,” I said.",0.6369,0.6369,0.296,0.0,0.704,1,0,0
+217,"“She’s in love with Mike Campbell, and she’s going to marry him.",0.6369,0.6369,0.276,0.0,0.724,1,0,0
+218,Her own true love had just kicked off with the dysentery.” “You talk sort of bitter.” “Sorry.,0.7906,0.7906,0.318,0.0,0.682,1,0,0
+219,We’re just starting lunch.” Cohn smiled again and sat down.,0.5423,0.5423,0.28,0.0,0.72,1,0,0
+220,He seemed glad to sit down.,0.4588,0.4588,0.375,0.0,0.625,1,0,0
+221,"“You’re really about the best friend I have, Jake.” God help you, I thought.",0.9093,0.9093,0.609,0.0,0.391,1,0,0
+222,It’s fine.,0.2023,0.2023,0.643,0.0,0.357,1,0,0
+223,They were not very good letters but I hoped their being on Crillon stationery would help them.,0.7301,0.7301,0.319,0.083,0.597,1,0,0
+224,The river looked nice.,0.4215,0.4215,0.483,0.0,0.517,1,0,0
+225,It was always pleasant crossing bridges in Paris.,0.5106,0.5106,0.32,0.0,0.68,1,0,0
+226,"The taxi rounded the statue of the inventor of the semaphore engaged in doing same, and turned up the Boulevard Raspail, and I sat back to let that part of the ride pass.",0.4019,0.4019,0.08,0.0,0.92,1,0,0
+227,I wondered where Cohn got that incapacity to enjoy Paris.,0.4939,0.4939,0.286,0.0,0.714,1,0,0
+228,"“Do you want to know something, Jake?” “Yes.” “I haven’t had anything to eat for five days.” I figured rapidly back in my mind.",0.0772,0.0772,0.056,0.0,0.944,1,0,0
+229,It was three days ago that Harvey had won two hundred francs from me shaking poker dice in the New York Bar.,0.4588,0.4588,0.146,0.067,0.787,1,0,0
+230,When I’m like this I just want to be alone.,0.2023,0.2023,0.322,0.169,0.508,1,0,0
+231,I want to stay in my own room.,0.0772,0.0772,0.178,0.0,0.822,1,0,0
+232,I’m like a cat.” I felt in my pocket.,0.3612,0.3612,0.294,0.0,0.706,1,0,0
+233,"“Would a hundred help you any, Harvey?” “Yes.” “Come on.",0.4019,0.4019,0.252,0.0,0.748,1,0,0
+234,When I get like this I don’t care whether I eat or not.” We had a drink.,0.6908,0.6908,0.341,0.0,0.659,1,0,0
+235,He says some pretty funny things.,0.7269,0.7269,0.604,0.0,0.396,1,0,0
+236,"“That was a good thing, too.” “Sure,” said Harvey.",0.4404,0.4404,0.293,0.0,0.707,1,0,0
+237,"“I think I’d rather play football again with what I know about handling myself, now.” “I misjudged you,” Harvey said.",0.34,0.34,0.118,0.0,0.882,1,0,0
+238,“You’re not a moron.,0.3875,0.3875,0.568,0.0,0.432,1,0,0
+239,“Some day somebody will push your face in.” Harvey Stone laughed.,0.4588,0.4588,0.231,0.0,0.769,1,0,0
+240,"I watched him crossing the street through the taxis, small, heavy, slowly sure of himself in the traffic.",0.3182,0.3182,0.126,0.0,0.874,1,0,0
+241,"“I can’t stand him.” “I like him,” I said.",0.3612,0.3612,0.263,0.0,0.737,1,0,0
+242,“I’m fond of him.,0.4404,0.4404,0.492,0.0,0.508,1,0,0
+243,I’m having a hard time handling it.” The sort of healthy conceit that he had when he returned from America early in the spring was gone.,0.2516,0.2516,0.09,0.052,0.858,1,0,0
+244,"Then he had been sure of his work, only with these personal longings for adventure.",0.6124,0.6124,0.333,0.0,0.667,1,0,0
+245,Now the sureness was gone.,0.4588,0.4588,0.429,0.0,0.571,1,0,0
+246,Somehow I feel I have not shown Robert Cohn clearly.,0.4019,0.4019,0.278,0.0,0.722,1,0,0
+247,"The reason is that until he fell in love with Brett, I never heard him make one remark that would, in any way, detach him from other people.",0.6369,0.6369,0.139,0.0,0.861,1,0,0
+248,"He was nice to watch on the tennis-court, he had a good body, and he kept it in shape; he handled his cards well at bridge, and he had a funny sort of undergraduate quality about him.",0.8658,0.8658,0.257,0.0,0.743,1,0,0
+249,"He had a nice, boyish sort of cheerfulness that had never been trained out of him, and I probably have not brought it out.",0.6815,0.6815,0.219,0.0,0.781,1,0,0
+250,He loved to win at tennis.,0.8271,0.8271,0.658,0.0,0.342,1,0,0
+251,"He probably loved to win as much as Lenglen, for instance.",0.8271,0.8271,0.461,0.0,0.539,1,0,0
+252,"On the other hand, he was not angry at being beaten.",0.477,0.477,0.353,0.168,0.479,1,0,0
+253,When he fell in love with Brett his tennis game went all to pieces.,0.6369,0.6369,0.244,0.0,0.756,1,0,0
+254,He was very nice about it.,0.4754,0.4754,0.382,0.0,0.618,1,0,0
+255,She was a very tall girl who walked with a great deal of movement.,0.6249,0.6249,0.272,0.0,0.728,1,0,0
+256,She waved and smiled.,0.5423,0.5423,0.538,0.0,0.462,1,0,0
+257,"“Hello,” she said, “I’m so glad you’re here, Jake.",0.5949,0.5949,0.326,0.0,0.674,1,0,0
+258,He smiled.,0.5423,0.5423,0.778,0.0,0.222,1,0,0
+259,"I went to the Ritz and waited for her, and she never came, and of course I didn’t have enough money to lunch at the Ritz——” “What did you do?” “Oh, went out, of course.” She spoke in a sort of imitation joyful manner.",0.5584,0.5584,0.083,0.0,0.917,1,0,0
+260,I ought to know better.,0.4404,0.4404,0.492,0.0,0.508,1,0,0
+261,"How are you, Jake, anyway?” “Fine.” “That was a fine girl you had at the dance, and then went off with that Brett one.” “Don’t you like her?” Cohn asked.",0.5661,0.5661,0.147,0.0,0.853,1,0,0
+262,“I think she’s perfectly charming.,0.8402,0.8402,0.727,0.0,0.273,1,0,0
+263,I want to talk with you.,0.0772,0.0772,0.245,0.0,0.755,1,0,0
+264,"“What’s the matter, Frances?” “Oh, nothing,” she said, “except that he wants to leave me.” “How do you mean?” “Oh, he told every one that we were going to be married, and I told my mother and every one, and now he doesn’t want to do it.” “What’s the matter?” “He’s decided he hasn’t lived enough.",0.1877,0.1877,0.052,0.021,0.926,1,0,0
+265,“I wouldn’t marry him if he doesn’t want to.,0.0772,0.0772,0.14,0.0,0.86,1,0,0
+266,"“We were going to celebrate so, and instead we’ve just had scenes.",0.5719,0.5719,0.252,0.0,0.748,1,0,0
+267,And I don’t know now if any man will ever want to marry me.,0.0772,0.0772,0.098,0.0,0.902,1,0,0
+268,"And I’m fond of him, too.",0.4404,0.4404,0.367,0.0,0.633,1,0,0
+269,And I’d like to have children.,0.3612,0.3612,0.333,0.0,0.667,1,0,0
+270,I always thought we’d have children.” She looked at me very brightly.,0.4201,0.4201,0.218,0.0,0.782,1,0,0
+271,"I always thought I’d have them and then like them.” “He’s got children.” “Oh, yes.",0.6369,0.6369,0.302,0.0,0.698,1,0,0
+272,"He’s got children, and he’s got money, and he’s got a rich mother, and he’s written a book, and nobody will publish my stuff; nobody at all.",0.5574,0.5574,0.13,0.0,0.87,1,0,0
+273,"I could have had alimony, but I got the divorce the quickest way.” She looked at me again very brightly.",0.5704,0.5704,0.178,0.0,0.822,1,0,0
+274,I ought to have known better.,0.4404,0.4404,0.42,0.0,0.58,1,0,0
+275,I’d be a good wife.,0.4404,0.4404,0.492,0.0,0.508,1,0,0
+276,I’m easy to get along with.,0.4404,0.4404,0.367,0.0,0.633,1,0,0
+277,"I know what he wants.” Now for the first time she dropped her bright, terribly cheerful manner.",0.4215,0.4215,0.278,0.157,0.565,1,0,0
+278,"“He wants to go back to New York alone, and be there when his book comes out so when a lot of little chickens like it.",0.0571,0.0571,0.082,0.073,0.845,1,0,0
+279,That’s what he wants.” “Maybe they won’t like it.,0.3612,0.3612,0.238,0.0,0.762,1,0,0
+280,"Really.” “You don’t know him like I do, Jake.",0.3612,0.3612,0.263,0.0,0.737,1,0,0
+281,That’s why he doesn’t want to marry.,0.0772,0.0772,0.178,0.0,0.822,1,0,0
+282,He wants to have a big triumph this fall all by himself.” “Want to go back to the café?” “Yes.,0.4767,0.4767,0.147,0.0,0.853,1,0,0
+283,"Come on.” We got up from the table—they had never brought us a drink—and started across the street toward the Select, where Cohn sat smiling at us from behind the marble-topped table.",0.4588,0.4588,0.091,0.0,0.909,1,0,0
+284,"“Well, what are you smiling at?” Frances asked him.",0.4588,0.4588,0.273,0.0,0.727,1,0,0
+285,"“Feel pretty happy?” “I was smiling at you and Jake with your secrets.” “Oh, what I’ve told Jake isn’t any secret.",0.7351,0.7351,0.246,0.0,0.754,1,0,0
+286,"I’m going to England.” “Isn’t that fine!” “Yes, that’s the way it’s done in the very best families.",0.6989,0.6989,0.22,0.0,0.78,1,0,0
+287,He’s going to give me two hundred pounds and then I’m going to visit friends.,0.4767,0.4767,0.181,0.0,0.819,1,0,0
+288,Won’t it be lovely?,0.5859,0.5859,0.559,0.0,0.441,1,0,0
+289,"The friends don’t know about it, yet.” She turned to Cohn and smiled at him.",0.765,0.765,0.337,0.0,0.663,1,0,0
+290,He’s really very generous.,0.5956,0.5956,0.563,0.0,0.437,1,0,0
+291,There are people to whom you could not say insulting things.,0.3875,0.3875,0.208,0.0,0.792,1,0,0
+292,And this was friendly joking to what went on later.,0.6249,0.6249,0.389,0.0,0.611,1,0,0
+293,I’m going to visit friends.,0.4767,0.4767,0.437,0.0,0.563,1,0,0
+294,Ever visit friends that didn’t want you?,0.5267,0.5267,0.468,0.0,0.532,1,0,0
+295,"‘How do you do, my dear?",0.3818,0.3818,0.342,0.0,0.658,1,0,0
+296,"And how is your dear mother?’ Yes, how is my dear mother?",0.8053,0.8053,0.479,0.0,0.521,1,0,0
+297,"Yes, she did.",0.4019,0.4019,0.574,0.0,0.426,1,0,0
+298,‘And what about Robert?’ or else very careful talking around Robert.,0.2247,0.2247,0.159,0.0,0.841,1,0,0
+299,"‘You must be most careful not to mention him, my dear.",0.5413,0.5413,0.333,0.0,0.667,1,0,0
+300,"Don’t you think it will be fun, Jake?” She turned to me with that terribly bright smile.",0.6249,0.6249,0.344,0.142,0.514,1,0,0
+301,It was very satisfactory to her to have an audience for this.,0.4201,0.4201,0.202,0.0,0.798,1,0,0
+302,Perfectly my own fault.,0.3612,0.3612,0.472,0.303,0.225,1,0,0
+303,"Just the sweetest little thing in the world, and he thought she was wonderful, and then I came along and he thought I was pretty wonderful, too.",0.891,0.891,0.325,0.0,0.675,1,0,0
+304,All to please me.,0.3182,0.3182,0.434,0.0,0.566,1,0,0
+305,"He thought I was pretty fine, then.",0.6124,0.6124,0.556,0.0,0.444,1,0,0
+306,It was just that she was so nice.,0.5598,0.5598,0.341,0.0,0.659,1,0,0
+307,And he did that just to please me.,0.3182,0.3182,0.247,0.0,0.753,1,0,0
+308,"Well, I suppose that we that live by the sword shall perish by the sword.",0.2732,0.2732,0.139,0.0,0.861,1,0,0
+309,"You want to remember that for your next book, Robert.",0.0772,0.0772,0.126,0.0,0.874,1,0,0
+310,He’s decided I don’t film well.,0.2732,0.2732,0.344,0.0,0.656,1,0,0
+311,"Well, I hope he gets something frightfully interesting.",0.6124,0.6124,0.575,0.201,0.224,1,0,0
+312,"“Listen, Robert, dear.",0.3818,0.3818,0.565,0.0,0.435,1,0,0
+313,"Because you can’t have scenes without crying, and then you pity yourself so much you can’t remember what the other person’s said.",0.091,0.091,0.103,0.089,0.808,1,0,0
+314,Just try and be calm.,0.3182,0.3182,0.365,0.0,0.635,1,0,0
+315,I’m going to England without a protest.,0.1877,0.1877,0.258,0.0,0.742,1,0,0
+316,We must all help young writers.,0.4019,0.4019,0.351,0.0,0.649,1,0,0
+317,"Still, I suppose that is young for a great writer.",0.6249,0.6249,0.369,0.0,0.631,1,0,0
+318,Look at Hardy.,0.4019,0.4019,0.574,0.0,0.426,1,0,0
+319,"Robert doesn’t think he’s any good, though.",0.4404,0.4404,0.326,0.0,0.674,1,0,0
+320,Some of his French friends told him.,0.4767,0.4767,0.341,0.0,0.659,1,0,0
+321,He doesn’t read French very well himself.,0.3384,0.3384,0.285,0.0,0.715,1,0,0
+322,"He wasn’t a good writer like you are, was he, Robert?",0.6597,0.6597,0.403,0.0,0.597,1,0,0
+323,"Oh, I’ve just thought of something.” She put her gloved hand up to her lips.",0.4939,0.4939,0.186,0.0,0.814,1,0,0
+324,They’ve sent it to me in a vision in the Café Select.,0.25,0.25,0.167,0.0,0.833,1,0,0
+325,Like at Lourdes.,0.3612,0.3612,0.556,0.0,0.444,1,0,0
+326,"Do you want to hear, Robert?",0.0772,0.0772,0.206,0.0,0.794,1,0,0
+327,"And if he marries me, like he’s always promised he would, that would be the end of all the romance.",0.8225,0.8225,0.336,0.0,0.664,1,0,0
+328,Don’t you think that’s bright of me to figure that out?,0.4404,0.4404,0.225,0.0,0.775,1,0,0
+329,"It’s true, too.",0.4215,0.4215,0.583,0.0,0.417,1,0,0
+330,Why did he keep on taking it like that?,0.3612,0.3612,0.238,0.0,0.762,1,0,0
+331,"Frances was talking on to him, smiling brightly, looking into his face each time she asked: “Isn’t it so, Robert?” Or maybe she did not ask that now.",0.6705,0.6705,0.175,0.0,0.825,1,0,0
+332,In the end I find she is very nice.” “Was she with a friend of mine?” “I don’t know.,0.4939,0.4939,0.167,0.0,0.833,1,0,0
+333,She was very nice.,0.4754,0.4754,0.508,0.0,0.492,1,0,0
+334,"Very, very nice.",0.5222,0.5222,0.628,0.0,0.372,1,0,0
+335,"Last night she was, perhaps, a little—” She put her head on one hand and rocked it up and down.",0.4939,0.4939,0.151,0.0,0.849,1,0,0
+336,"“I’ll speak perfectly frankly, Monsieur Barnes.",0.6369,0.6369,0.457,0.0,0.543,1,0,0
+337,She is of very good family.,0.4927,0.4927,0.39,0.0,0.61,1,0,0
+338,"Her life-work lay in the pelouse, but she kept an eye on the people of the pesage, and she took great pride in telling me which of my guests were well brought up, which were of good family, who were sportsmen, a French word pronounced with the accent on the men.",0.9455,0.9455,0.249,0.0,0.751,1,0,0
+339,"One of my friends, an extremely underfed-looking painter, who was obviously to Madame Duzinell neither well brought up, of good family, nor a sportsman, wrote me a letter asking if I could get him a pass to get by the concierge so he could come up and see me occasionally in the evenings.",0.6353,0.6353,0.111,0.034,0.855,1,0,0
+340,He was holding a great bunch of roses.,0.6249,0.6249,0.406,0.0,0.594,1,0,0
+341,I was just bathing.” “Aren’t you the fortunate man.,0.4404,0.4404,0.293,0.0,0.707,1,0,0
+342,"What will you drink?” “I don’t know whether you like flowers, sir,” the count said, “but I took the liberty of just bringing these roses.” “Here, give them to me.” Brett took them.",0.7096,0.7096,0.164,0.0,0.836,1,0,0
+343,“Who’d want to?,0.0772,0.0772,0.394,0.0,0.606,1,0,0
+344,"Brett came in the room, a glass in her hand, and sat on the bed.",0.4939,0.4939,0.198,0.0,0.802,1,0,0
+345,"“What’s the matter, darling?",0.5994,0.5994,0.71,0.0,0.29,1,0,0
+346,Do you feel rocky?” She kissed me coolly on the forehead.,0.3818,0.3818,0.206,0.0,0.794,1,0,0
+347,"“Oh, Brett, I love you so much.” “Darling,” she said.",0.6369,0.6369,0.344,0.0,0.656,1,0,0
+348,Then: “Do you want me to send him away?” “No.,0.0772,0.0772,0.126,0.0,0.874,1,0,0
+349,"He’s nice.” “I’ll send him away.” “No, don’t.” “Yes, I’ll send him away.” “You can’t just like that.” “Can’t I, though?",0.3612,0.3612,0.111,0.0,0.889,1,0,0
+350,“Sent him for champagne.,0.296,0.296,0.423,0.0,0.577,1,0,0
+351,"He loves to go for champagne.” Then later: “Do you feel better, darling?",0.886,0.886,0.51,0.0,0.49,1,0,0
+352,It’s the way I’m made.” “Couldn’t we go off in the country for a while?” “It wouldn’t be any good.,0.4404,0.4404,0.139,0.0,0.861,1,0,0
+353,I’ll go if you like.,0.3612,0.3612,0.385,0.0,0.615,1,0,0
+354,There isn’t any use my telling you I love you.” “You know I love you.” “Let’s not talk.,0.8555,0.8555,0.375,0.0,0.625,1,0,0
+355,Better for me.” “When are you going?” “Soon as I can.” “Where?” “San Sebastian.” “Can’t we go together?” “No.,0.533,0.533,0.168,0.0,0.832,1,0,0
+356,You know he’s extraordinary about buying champagne.,0.296,0.296,0.268,0.0,0.732,1,0,0
+357,Behind him was the chauffeur carrying a basket of champagne.,0.296,0.296,0.216,0.0,0.784,1,0,0
+358,"“I think you’ll find that’s very good wine,” he said.",0.4927,0.4927,0.262,0.0,0.738,1,0,0
+359,"“I know we don’t get much of a chance to judge good wine in the States now, but I got this from a friend of mine that’s in the business.” “Oh, you always have some one in the trade,” Brett said.",0.775,0.775,0.181,0.0,0.819,1,0,0
+360,"Why haven’t you a title, Jake?” “I assure you, sir,” the count put his hand on my arm.",0.6808,0.6808,0.272,0.0,0.728,1,0,0
+361,“It never does a man any good.,0.4404,0.4404,0.367,0.0,0.633,1,0,0
+362,"It’s damned useful sometimes,” Brett said.",0.0772,0.0772,0.305,0.274,0.421,1,0,0
+363,"I’ve had hell’s own amount of credit on mine.” “Do sit down, count,” I said.",0.3818,0.3818,0.167,0.0,0.833,1,0,0
+364,"“We’ll want to ride out to the Bois for dinner?” “If you like,” Brett said.",0.0772,0.0772,0.085,0.0,0.915,1,0,0
+365,"“I couldn’t eat a thing.” “I always like a good meal,” said the count.",0.6597,0.6597,0.351,0.0,0.649,1,0,0
+366,"“I like a cigar to really draw,” said the count “Half the cigars you smoke don’t draw.” He lit the cigar, puffed at it, looking across the table at Brett.",0.3612,0.3612,0.082,0.0,0.918,1,0,0
+367,“Mummy would be pleased.,0.4404,0.4404,0.492,0.0,0.508,1,0,0
+368,I always joke people and I haven’t a friend in the world.,0.6597,0.6597,0.435,0.0,0.565,1,0,0
+369,"Except Jake here.” “You don’t joke him.” “That’s it.” “Do you, now?” asked the count.",0.296,0.296,0.136,0.0,0.864,1,0,0
+370,“Do you joke him?” Brett looked at me and wrinkled up the corners of her eyes.,0.296,0.296,0.128,0.0,0.872,1,0,0
+371,"“I wouldn’t joke him.” “See,” said the count.",0.296,0.296,0.239,0.0,0.761,1,0,0
+372,“How about some of that champagne?” The count reached down and twirled the bottles in the shiny bucket.,0.1027,0.1027,0.076,0.0,0.924,1,0,0
+373,"You’re always drinking, my dear.",0.3818,0.3818,0.394,0.0,0.606,1,0,0
+374,"I’ve talked myself all out to Jake.” “I should like to hear you really talk, my dear.",0.6557,0.6557,0.263,0.0,0.737,1,0,0
+375,"Let any one finish them as they like.” “It is a very interesting system,” the count reached down and gave the bottles a twirl.",0.5256,0.5256,0.18,0.0,0.82,1,0,0
+376,“Still I would like to hear you talk some time.” “Isn’t he a fool?” Brett asked.,0.3612,0.3612,0.161,0.0,0.839,1,0,0
+377,“I like to drink champagne from magnums.,0.5719,0.5719,0.485,0.0,0.515,1,0,0
+378,"The wine is better but it would have been too hard to cool.” He held the bottle, looking at it.",0.09,0.09,0.09,0.074,0.835,1,0,0
+379,"“Yes, my dear.",0.3818,0.3818,0.565,0.0,0.435,1,0,0
+380,Now I’ll open it.” It was amazing champagne.,0.7184,0.7184,0.5,0.0,0.5,1,0,0
+381,"‘Here’s to royalty.’” “This wine is too good for toast-drinking, my dear.",0.6705,0.6705,0.355,0.0,0.645,1,0,0
+382,You don’t want to mix emotions up with a wine like that.,0.4215,0.4215,0.297,0.0,0.703,1,0,0
+383,"Barnes,” answered the count, “all I want out of wines is to enjoy them.” “Let’s enjoy a little more of this,” Brett pushed her glass forward.",0.7717,0.7717,0.268,0.0,0.732,1,0,0
+384,The count poured very carefully.,0.2006,0.2006,0.31,0.0,0.69,1,0,0
+385,"“There, my dear.",0.3818,0.3818,0.565,0.0,0.435,1,0,0
+386,"Now you enjoy that slowly, and then you can get drunk.” “Drunk?",0.4939,0.4939,0.225,0.0,0.775,1,0,0
+387,"Drunk?” “My dear, you are charming when you are drunk.” “Listen to the man.” “Mr.",0.7506,0.7506,0.33,0.0,0.67,1,0,0
+388,"“She is the only lady I have ever known who was as charming when she was drunk as when she was sober.” “You haven’t been around much, have you?” “Yes, my dear.",0.6124,0.6124,0.174,0.065,0.761,1,0,0
+389,"I have been around a very great deal.” “Drink your wine,” said Brett.",0.659,0.659,0.305,0.0,0.695,1,0,0
+390,"I dare say Jake here has seen as much as you have.” “My dear, I am sure Mr. Barnes has seen a lot.",0.5994,0.5994,0.214,0.0,0.786,1,0,0
+391,"“Sometimes, my dear.",0.3818,0.3818,0.565,0.0,0.435,1,0,0
+392,"“I love you, count.",0.6369,0.6369,0.583,0.0,0.417,1,0,0
+393,"You’re a darling.” “You make me very happy, my dear.",0.7818,0.7818,0.495,0.0,0.505,1,0,0
+394,"But it isn’t true.” “Don’t be an ass.” “You see, Mr. Barnes, it is because I have lived very much that now I can enjoy everything so well.",0.8121,0.8121,0.235,0.0,0.765,1,0,0
+395,Don’t you find it like that?” “Yes.,0.3612,0.3612,0.294,0.0,0.706,1,0,0
+396,"“I am always in love.” “What does that do to your values?” “That, too, has got a place in my values.” “You haven’t any values.",0.4019,0.4019,0.105,0.0,0.895,1,0,0
+397,I’m not dead at all.” We drank three bottles of the champagne and the count left the basket in my kitchen.,0.685,0.685,0.229,0.0,0.771,1,0,0
+398,It was a good dinner.,0.4404,0.4404,0.492,0.0,0.508,1,0,0
+399,Food had an excellent place in the count’s values.,0.7506,0.7506,0.478,0.0,0.522,1,0,0
+400,The count was in fine form during the meal.,0.2023,0.2023,0.184,0.0,0.816,1,0,0
+401,It was a good party.,0.6808,0.6808,0.737,0.0,0.263,1,0,0
+402,“Where would you like to go?” asked the count after dinner.,0.3612,0.3612,0.2,0.0,0.8,1,0,0
+403,“Haven’t we had a splendid party?” The count was beaming.,0.5859,0.5859,0.322,0.0,0.678,1,0,0
+404,He was very happy.,0.6115,0.6115,0.571,0.0,0.429,1,0,0
+405,"“You are very nice people,” he said.",0.4754,0.4754,0.34,0.0,0.66,1,0,0
+406,"“Why don’t you get married, you two?” “We want to lead our own lives,” I said.",0.0772,0.0772,0.085,0.0,0.915,1,0,0
+407,"“What is it men feel about quiet?” “We like it,” said the count.",0.3612,0.3612,0.172,0.0,0.828,1,0,0
+408,"“Like you like noise, my dear.” “All right,” said Brett.",0.3612,0.3612,0.217,0.0,0.783,1,0,0
+409,"Call him off, Jake.” “Listen, my dear.",0.3818,0.3818,0.302,0.0,0.698,1,0,0
+410,I get more value for my money in old brandy than in any other antiquities.” “Got many antiquities?” “I got a houseful.” Finally we went up to Montmartre.,0.4005,0.4005,0.097,0.0,0.903,1,0,0
+411,"“He’s a great friend of mine,” Brett said.",0.8074,0.8074,0.593,0.0,0.407,1,0,0
+412,“Damn good drummer.” The music stopped and we started toward the table where the count sat.,0.25,0.25,0.154,0.101,0.745,1,0,0
+413,"Michael’s the best dancer I know.” “He’s splendid.” “He’s got his points.” “I like him,” I said.",0.7717,0.7717,0.34,0.0,0.66,1,0,0
+414,"“I’m damned fond of him.” “I’m going to marry him,” Brett said.",0.0772,0.0772,0.187,0.168,0.645,1,0,0
+415,"Damned good letters, too.” “When are you going to get married?” “How do I know?",0.168,0.168,0.183,0.146,0.672,1,0,0
+416,"“My dear, I would do it if I would enjoy it.",0.7003,0.7003,0.453,0.0,0.547,1,0,0
+417,"I enjoy to watch you dance.” “Splendid,” Brett said.",0.4939,0.4939,0.314,0.0,0.686,1,0,0
+418,"What about your little friend, Zizi?” “Let me tell you.",0.4417,0.4417,0.244,0.0,0.756,1,0,0
+419,"I support that boy, but I don’t want to have him around.” “He is rather hard.” “You know I think that boy’s got a future.",0.3182,0.3182,0.148,0.0,0.852,1,0,0
+420,"But personally I don’t want him around.” “Jake’s rather the same way.” “He gives me the willys.” “Well,” the count shrugged his shoulders.",0.1154,0.1154,0.065,0.0,0.935,1,0,0
+421,"Anyhow, his father was a great friend of my father.” “Come on.",0.8074,0.8074,0.448,0.0,0.552,1,0,0
+422,"“Oh, darling,” Brett said, “I’m so miserable.” I had that feeling of going through something that has all happened before.",0.128,0.128,0.077,0.0,0.923,1,0,0
+423,“You were happy a minute ago.” The drummer shouted: “You can’t two time—” “It’s all gone.” “What’s the matter?” “I don’t know.,0.5719,0.5719,0.156,0.0,0.844,1,0,0
+424,"“Want to go?” I had the feeling as in a nightmare of it all being something repeated, something I had been through and that now I must go through again.",0.128,0.128,0.057,0.0,0.943,1,0,0
+425,.” the drummer shouted and grinned at Brett.,0.2732,0.2732,0.231,0.0,0.769,1,0,0
+426,That’s fine.,0.2023,0.2023,0.643,0.0,0.357,1,0,0
+427,"“It was a wonderful time,” I said.",0.5719,0.5719,0.481,0.0,0.519,1,0,0
+428,“I wish you would let me get this.” I took a note out of my pocket.,0.4019,0.4019,0.172,0.0,0.828,1,0,0
+429,She kissed the count and put her hand on his shoulder to keep him from standing up.,0.7003,0.7003,0.279,0.0,0.721,1,0,0
+430,"Good night, darling.",0.7717,0.7717,0.87,0.0,0.13,1,0,0
+431,I won’t see you again.” We kissed standing at the door.,0.3818,0.3818,0.224,0.0,0.776,1,0,0
+432,We kissed again.,0.3818,0.3818,0.565,0.0,0.435,1,0,0
+433,Very quiet and healthy.,0.4522,0.4522,0.497,0.0,0.503,1,0,0
+434,Love to all the chaps.,0.6369,0.6369,0.512,0.0,0.488,1,0,0
+435,"Brett was gone, I was not bothered by Cohn’s troubles, I rather enjoyed not having to play tennis, there was plenty of work to do, I went often to the races, dined with friends, and put in some extra time at the office getting things ahead so I could leave it in charge of my secretary when Bill Gorton and I should shove off to Spain the end of June.",0.4306,0.4306,0.113,0.088,0.799,1,0,0
+436,He was very cheerful and said the States were wonderful.,0.8173,0.8173,0.484,0.0,0.516,1,0,0
+437,New York was wonderful.,0.5719,0.5719,0.552,0.0,0.448,1,0,0
+438,There had been a grand theatrical season and a whole crop of great young light heavyweights.,0.7964,0.7964,0.372,0.0,0.628,1,0,0
+439,"Any one of them was a good prospect to grow up, put on weight and trim Dempsey.",0.6249,0.6249,0.267,0.0,0.733,1,0,0
+440,Bill was very happy.,0.6115,0.6115,0.571,0.0,0.429,1,0,0
+441,"We had a good time while he was in Paris, and then he went off to Vienna.",0.4404,0.4404,0.162,0.0,0.838,1,0,0
+442,He was coming back in three weeks and we would leave for Spain to get in some fishing and go to the fiesta at Pamplona.,0.4404,0.4404,0.114,0.044,0.842,1,0,0
+443,He wrote that Vienna was wonderful.,0.5719,0.5719,0.425,0.0,0.575,1,0,0
+444,"“Well,” I said, “I hear you had a wonderful trip.” “Wonderful,” he said.",0.5719,0.5719,0.27,0.0,0.73,1,0,0
+445,"“Budapest is absolutely wonderful.” “How about Vienna?” “Not so good, Jake.",0.5777,0.5777,0.272,0.0,0.728,1,0,0
+446,It seemed better than it was.” “How do you mean?” I was getting glasses and a siphon.,0.4404,0.4404,0.172,0.0,0.828,1,0,0
+447,Better have a drink.” Bill rubbed his forehead.,0.4404,0.4404,0.326,0.0,0.674,1,0,0
+448,Remember that perfectly.” “Do anything else?” “Not so sure.,0.4572,0.4572,0.272,0.0,0.728,1,0,0
+449,"Looked like Tiger Flowers, only four times as big.",0.3612,0.3612,0.238,0.0,0.762,1,0,0
+450,"Studying music.” “How’d you come out?” “Not so good, Jake.",0.5777,0.5777,0.294,0.0,0.706,1,0,0
+451,"Hope I gave him the right address.” “You probably did.” “Well, anyway, let’s eat,” said Bill.",0.4404,0.4404,0.172,0.0,0.828,1,0,0
+452,“Unless you want me to tell you some more travel stories.” “Go on.” “Let’s eat.” We went down-stairs and out onto the Boulevard St. Michel in the warm June evening.,0.296,0.296,0.103,0.0,0.897,1,0,0
+453,"Nice stuffed dog?” “Come on,” I said.",0.4215,0.4215,0.359,0.0,0.641,1,0,0
+454,"“You’re pie-eyed.” “Pretty nice stuffed dogs,” Bill said.",0.4215,0.4215,0.286,0.0,0.714,1,0,0
+455,“Certainly brighten up your flat.” “Come on.” “Just one stuffed dog.,0.4404,0.4404,0.225,0.0,0.775,1,0,0
+456,Simple exchange of values.,0.4019,0.4019,0.474,0.0,0.526,1,0,0
+457,Always been a great lover of stuffed animals.” We stopped and had a drink.,0.7906,0.7906,0.42,0.101,0.479,1,0,0
+458,"“Certainly like to drink,” Bill said.",0.3612,0.3612,0.333,0.0,0.667,1,0,0
+459,Secret of my success.,0.5719,0.5719,0.552,0.0,0.448,1,0,0
+460,George’s a great man.,0.6249,0.6249,0.672,0.0,0.328,1,0,0
+461,Know the secret of his success?,0.5719,0.5719,0.425,0.0,0.575,1,0,0
+462,I’m like a cat that way.” “When did you see Harvey Stone?” “At the Crillon.,0.3612,0.3612,0.161,0.0,0.839,1,0,0
+463,Just goes off like a cat.,0.3612,0.3612,0.385,0.0,0.615,1,0,0
+464,Pretty sad.” “He’s all right.” “Splendid.,0.4939,0.4939,0.39,0.0,0.61,1,0,0
+465,"Wish he wouldn’t keep going off like a cat, though.",0.6369,0.6369,0.426,0.0,0.574,1,0,0
+466,Going to give all my friends stuffed animals.,0.4767,0.4767,0.307,0.0,0.693,1,0,0
+467,Lady Ashley.” Brett smiled at Bill.,0.5423,0.5423,0.412,0.0,0.588,1,0,0
+468,"Come on and eat with us, and we’ll all go to meet him.” “Must clean myself.” “Oh, rot!",0.4574,0.4574,0.15,0.0,0.85,1,0,0
+469,"“We might as well go to the Closerie,” Brett said.",0.2732,0.2732,0.189,0.0,0.811,1,0,0
+470,"Budapest was wonderful.” “Ask him about Vienna.” “Vienna,” said Bill, “is a strange city.” “Very much like Paris,” Brett smiled at him, wrinkling the corners of her eyes.",0.6369,0.6369,0.189,0.057,0.755,1,0,0
+471,"“Very much like Paris at this moment.” “You _have_ a good start.” Sitting out on the terraces of the Lilas Brett ordered a whiskey and soda, I took one, too, and Bill took another pernod.",0.6597,0.6597,0.153,0.0,0.847,1,0,0
+472,“I’ve had a good time.” Brett looked at me.,0.4404,0.4404,0.293,0.0,0.707,1,0,0
+473,Interesting.,0.4019,0.4019,1.0,0.0,0.0,1,0,0
+474,"Not frightfully amusing.” “See anybody?” “No, hardly anybody.",0.3089,0.3089,0.244,0.0,0.756,1,0,0
+475,"Didn’t do a thing.” “Sounds like Vienna,” Bill said.",0.3612,0.3612,0.263,0.0,0.737,1,0,0
+476,“So that’s the way it was in Vienna.” “It was like everything in Vienna.” Brett smiled at him again.,0.7184,0.7184,0.261,0.0,0.739,1,0,0
+477,"“You’ve a nice friend, Jake.” “He’s all right,” I said.",0.7184,0.7184,0.5,0.0,0.5,1,0,0
+478,“She’s damned nice.,0.0516,0.0516,0.437,0.406,0.156,1,0,0
+479,Think they’d like a couple of stuffed race-horses?” “We better eat.” “Is she really Lady something or other?” Bill asked in the taxi on our way down to the Ile Saint Louis.,0.6966,0.6966,0.166,0.0,0.834,1,0,0
+480,"“Oh, yes.",0.4019,0.4019,0.73,0.0,0.27,1,0,0
+481,"Bill had eaten at the restaurant in 1918, and right after the armistice, and Madame Lecomte made a great fuss over seeing him.",0.6249,0.6249,0.163,0.0,0.837,1,0,0
+482,"“Grand woman, though.” We had a good meal, a roast chicken, new green beans, mashed potatoes, a salad, and some apple-pie and cheese.",0.4404,0.4404,0.132,0.0,0.868,1,0,0
+483,She raised her hand.,0.4939,0.4939,0.516,0.0,0.484,1,0,0
+484,"“Oh, my God!” “You’ll be rich.” “I hope so.” After the coffee and a _fine_ we got the bill, chalked up the same as ever on a slate, that was doubtless one of the “quaint” features, paid it, shook hands, and went out.",0.5707,0.5707,0.114,0.031,0.854,1,0,0
+485,"The river was dark and a bateau mouche went by, all bright with lights, going fast and quiet up and out of sight under the bridge.",0.4404,0.4404,0.108,0.0,0.892,1,0,0
+486,"“It’s pretty grand,” Bill said.",0.4939,0.4939,0.444,0.0,0.556,1,0,0
+487,"“God, I love to get back.” We leaned on the wooden rail of the bridge and looked up the river to the lights of the big bridges.",0.6369,0.6369,0.144,0.0,0.856,1,0,0
+488,"The arc-light shone through the leaves of the trees in the square, and underneath the trees was an S bus ready to start.",0.3612,0.3612,0.106,0.0,0.894,1,0,0
+489,The girl ladled some onto a plate for an old man who stood holding a bottle of red wine in one hand.,0.4939,0.4939,0.144,0.0,0.856,1,0,0
+490,“What do you want to do?” I asked.,0.0772,0.0772,0.178,0.0,0.822,1,0,0
+491,"How are you, old lad?” “You look very fit, Mike.” “Oh, I am.",0.4201,0.4201,0.202,0.0,0.798,1,0,0
+492,"“It’s good to see you, Jake,” Michael said.",0.4404,0.4404,0.293,0.0,0.707,1,0,0
+493,"Amazing, isn’t it?",0.5859,0.5859,0.655,0.0,0.345,1,0,0
+494,“I reached up to help her with them and they fell on me.” Brett gestured at him from the bar with her cigarette-holder and wrinkled the corners of her eyes.,0.4767,0.4767,0.128,0.0,0.872,1,0,0
+495,"You _are_ a lovely lady, Brett.",0.5859,0.5859,0.487,0.0,0.513,1,0,0
+496,"Do get a good hat.” “Oh, we’ve so much money now,” Brett said.",0.4404,0.4404,0.209,0.0,0.791,1,0,0
+497,"You _are_ a lovely host, Jake.” She turned to Mike.",0.5859,0.5859,0.322,0.0,0.678,1,0,0
+498,I thought I might as well take it.,0.2732,0.2732,0.296,0.0,0.704,1,0,0
+499,"I say, Brett, you _are_ a lovely piece.",0.5859,0.5859,0.432,0.0,0.568,1,0,0
+500,With this nose?” “It’s a lovely nose.,0.5859,0.5859,0.432,0.0,0.568,1,0,0
+501,"Isn’t she a lovely piece?” “Couldn’t we have kept the man in Scotland?” “I say, Brett, let’s turn in early.” “Don’t be indecent, Michael.",0.6322,0.6322,0.159,0.0,0.841,1,0,0
+502,Remember there are ladies at this bar.” “Isn’t she a lovely piece?,0.5859,0.5859,0.275,0.0,0.725,1,0,0
+503,"“Who’s fighting?” “Ledoux and somebody.” “He’s very good, Ledoux,” Mike said.",0.4927,0.4927,0.242,0.0,0.758,1,0,0
+504,"“I’d like to see it, rather”—he was making an effort to pull himself together—“but I can’t go.",0.3612,0.3612,0.143,0.0,0.857,1,0,0
+505,"I say, Brett, do get a new hat.” Brett pulled the felt hat down far over one eye and smiled out from under it.",0.5423,0.5423,0.143,0.0,0.857,1,0,0
+506,"I say, Brett, you are a lovely piece.” “Go on to the fight,” Brett said.",0.5859,0.5859,0.241,0.0,0.759,1,0,0
+507,"What are these outbursts of affection, Michael?” “I say, you are a lovely piece.” We said good night.",0.8779,0.8779,0.419,0.0,0.581,1,0,0
+508,Brett laughed.,0.4588,0.4588,0.75,0.0,0.25,1,0,0
+509,"Mike had one hand on the bar and was leaning toward Brett, talking.",0.4939,0.4939,0.211,0.0,0.789,1,0,0
+510,"Brett was looking at him quite coolly, but the corners of her eyes were smiling.",0.6124,0.6124,0.222,0.0,0.778,1,0,0
+511,"Outside on the pavement I said: “Do you want to go to the fight?” “Sure,” said Bill.",0.0772,0.0772,0.08,0.0,0.92,1,0,0
+512,"“If we don’t have to walk.” “Mike was pretty excited about his girl friend,” I said in the taxi.",0.6808,0.6808,0.259,0.0,0.741,1,0,0
+513,It was a good fight.,0.0772,0.0772,0.387,0.347,0.267,1,0,0
+514,"He was having a very quiet time, he said, bathing, playing some golf and much bridge.",0.2023,0.2023,0.114,0.0,0.886,1,0,0
+515,"“Hello, darling.” Brett put out her hand.",0.4939,0.4939,0.348,0.0,0.652,1,0,0
+516,"You’re sure we wouldn’t just be a bloody nuisance?” “Don’t talk like a fool.” “I’m a little tight, you know.",0.2263,0.2263,0.221,0.134,0.645,1,0,0
+517,I wouldn’t ask you like this if I weren’t.,0.3612,0.3612,0.294,0.0,0.706,1,0,0
+518,"You’re sure you don’t mind?” “Oh, shut up, Michael,” Brett said.",0.3182,0.3182,0.187,0.0,0.813,1,0,0
+519,"“He’s out at Chantilly dining with some people.” “He’s a good chap.” “Splendid chap,” said Mike.",0.4404,0.4404,0.172,0.0,0.828,1,0,0
+520,Remember him perfectly.,0.6369,0.6369,0.677,0.0,0.323,1,0,0
+521,"Brett can’t get up in the morning.” “Indeed not!” “If our money comes and you’re sure you don’t mind.” “It will come, all right.",0.3802,0.3802,0.101,0.0,0.899,1,0,0
+522,"Be a good chap.” “We _have_ got the loveliest hotel,” Mike said.",0.4404,0.4404,0.225,0.0,0.775,1,0,0
+523,"Seemed frightfully pleased we were going to stay all night.” “_I_ believe it’s a brothel,” Mike said.",0.0516,0.0516,0.148,0.138,0.714,1,0,0
+524,What would you like me to say?” We walked along and turned a corner.,0.3612,0.3612,0.172,0.0,0.828,1,0,0
+525,"“He behaved rather well, too.",0.2732,0.2732,0.344,0.0,0.656,1,0,0
+526,"He gets a little dull.” “Does he?” “I rather thought it would be good for him.” “You might take up social service.” “Don’t be nasty.” “I won’t.” “Didn’t you really know?” “No,” I said.",0.504,0.504,0.095,0.0,0.905,1,0,0
+527,He can always not come.” “I’ll write him and give him a chance to pull out of it.” I did not see Brett again until the night of the 24th of June.,0.25,0.25,0.065,0.0,0.935,1,0,0
+528,He’s keen about it.” “My God!” “I thought it was rather odd myself.” “Says he can’t wait to see me.” “Does he think you’re coming alone?” “No.,0.126,0.126,0.093,0.076,0.831,1,0,0
+529,"It was a lovely day, not too hot, and the country was beautiful from the start.",0.8271,0.8271,0.372,0.0,0.628,1,0,0
+530,“We want to eat in the first service.” The conductor put the ten francs in his pocket.,0.0772,0.0772,0.075,0.0,0.925,1,0,0
+531,"“Having a good trip?” “Wonderful,” said Bill.",0.4404,0.4404,0.367,0.0,0.633,1,0,0
+532,“That’s what you want to do.,0.0772,0.0772,0.206,0.0,0.794,1,0,0
+533,"“What you always said was: ‘See America first!’ I will say we’ve seen a good deal, take it one way and another.” “Say, there’s plenty of Americans on this train,” the husband said.",0.4926,0.4926,0.096,0.0,0.904,1,0,0
+534,We got some of the best fishing in the State of Montana.,0.6369,0.6369,0.276,0.0,0.724,1,0,0
+535,She smoothed her comfortable lap.,0.5106,0.5106,0.452,0.0,0.548,1,0,0
+536,"“I voted against prohibition to please him, and because I like a little beer in the house, and then he talks that way.",0.5859,0.5859,0.202,0.0,0.798,1,0,0
+537,"They can’t do a thing like that.” “You try and get seats.” “Well, mother, it looks as though we better go back and get another breakfast.” She stood up and straightened her dress.",0.6597,0.6597,0.153,0.0,0.847,1,0,0
+538,Our friend and his family did not come back.,0.4939,0.4939,0.286,0.0,0.714,1,0,0
+539,"The pastureland was green, and there were fine trees, and sometimes big rivers and chateaux off in the trees.",0.2023,0.2023,0.091,0.0,0.909,1,0,0
+540,"At Tours we got off and bought another bottle of wine, and when we got back in the compartment the gentleman from Montana and his wife and his son, Hubert, were sitting comfortably.",0.4215,0.4215,0.08,0.0,0.92,1,0,0
+541,“Is there good swimming in Biarritz?” asked Hubert.,0.4404,0.4404,0.293,0.0,0.707,1,0,0
+542,"“It’s pretty hard on youngsters travelling.” “There’s good swimming,” I said.",0.6908,0.6908,0.421,0.097,0.483,1,0,0
+543,“We sure did.,0.3182,0.3182,0.535,0.0,0.465,1,0,0
+544,"We set right there when they started to come in, and they must have just thought we were in the party.",0.4019,0.4019,0.119,0.0,0.881,1,0,0
+545,“It certainly shows you the power of the Catholic Church.,0.34,0.34,0.211,0.0,0.789,1,0,0
+546,"“When do us Protestants get a chance to eat, father?” “I don’t know anything about it.",0.25,0.25,0.125,0.0,0.875,1,0,0
+547,"Haven’t you got tickets?” “It’s enough to make a man join the Klan,” Bill said.",0.296,0.296,0.145,0.0,0.855,1,0,0
+548,Inside the dining-car the waiters served the fifth successive table d’hôte meal.,0.2732,0.2732,0.16,0.0,0.84,1,0,0
+549,"There were wide fire-gaps cut through the pines, and you could look up them like avenues and see wooded hills way off.",0.1027,0.1027,0.102,0.085,0.813,1,0,0
+550,"“Well, I hope you have lots of luck,” he said.",0.4404,0.4404,0.266,0.0,0.734,1,0,0
+551,"“Be careful about those bull-fights.” “Maybe we’ll see you at Biarritz,” Hubert said.",0.1531,0.1531,0.118,0.0,0.882,1,0,0
+552,"Have a good trip?” “Fine,” I said.",0.4404,0.4404,0.42,0.0,0.58,1,0,0
+553,"“I’m awfully glad to meet you,” Robert said to Bill.",0.5095,0.5095,0.268,0.0,0.732,1,0,0
+554,"It was a nice hotel, and the people at the desk were very cheerful, and we each had a good small room.",0.8588,0.8588,0.358,0.0,0.642,1,0,0
+555,"CHAPTER                                    10  In the morning it was bright, and they were sprinkling the streets of the town, and we all had breakfast in a café.",0.4404,0.4404,0.112,0.0,0.888,1,0,0
+556,Bayonne is a nice town.,0.4215,0.4215,0.483,0.0,0.517,1,0,0
+557,It is like a very clean Spanish town and it is on a big river.,0.6697,0.6697,0.333,0.0,0.667,1,0,0
+558,"Finally he came in, and we bought a pretty good rod cheap, and two landing-nets.",0.7269,0.7269,0.337,0.0,0.663,1,0,0
+559,"Cohn made some remark about it being a very good example of something or other, I forget what.",0.3167,0.3167,0.167,0.1,0.733,1,0,0
+560,"It seemed like a nice cathedral, nice and dim, like Spanish churches.",0.8625,0.8625,0.602,0.0,0.398,1,0,0
+561,"It was hot, but the town had a cool, fresh, early-morning smell and it was pleasant sitting in the café.",0.8847,0.8847,0.393,0.0,0.607,1,0,0
+562,We agreed he must have just come in from the garden.,0.2732,0.2732,0.174,0.0,0.826,1,0,0
+563,It was really an awfully clean hotel.,0.5034,0.5034,0.352,0.0,0.648,1,0,0
+564,"We passed some lovely gardens and had a good look back at the town, and then we were out in the country, green and rolling, and the road climbing all the time.",0.7717,0.7717,0.188,0.0,0.812,1,0,0
+565,"We passed lots of Basques with oxen, or cattle, hauling carts along the road, and nice farmhouses, low roofs, and all white-plastered.",0.1779,0.1779,0.112,0.084,0.803,1,0,0
+566,In the Basque country the land all looks very rich and green and the houses and villages look well-off and clean.,0.7645,0.7645,0.258,0.0,0.742,1,0,0
+567,Every village had a pelota court and on some of them kids were playing in the hot sun.,0.2023,0.2023,0.101,0.0,0.899,1,0,0
+568,"Robert Cohn asked, pointing with his finger, if there were any trout in the stream, and the carabineer said yes, but not many.",0.2144,0.2144,0.078,0.0,0.922,1,0,0
+569,"I asked him if he ever fished, and he said no, that he didn’t care for it.",0.25,0.25,0.165,0.113,0.722,1,0,0
+570,He took it and thanked me.,0.4404,0.4404,0.367,0.0,0.633,1,0,0
+571,"For a while the country was much as it had been; then, climbing all the time, we crossed the top of a Col, the road winding back and forth on itself, and then it was really Spain.",0.2023,0.2023,0.05,0.0,0.95,1,0,0
+572,"Down below there were grassy plains and clear streams, and then we crossed a stream and went through a gloomy little village, and started to climb again.",0.25,0.25,0.096,0.059,0.846,1,0,0
+573,"After a while we came out of the mountains, and there were trees along both sides of the road, and a stream and ripe fields of grain, and the road went on, very white and straight ahead, and then lifted to a little rise, and off on the left was a hill with an old castle, with buildings close around it and a field of grain going right up to the walls and shifting in the wind.",0.2878,0.2878,0.03,0.0,0.97,1,0,0
+574,"Then we crossed a wide plain, and there was a big river off on the right shining in the sun from between the line of trees, and away off you could see the plateau of Pamplona rising out of the plain, and the walls of the city, and the great brown cathedral, and the broken skyline of the other churches.",0.25,0.25,0.065,0.049,0.886,1,0,0
+575,"There was a crowd of kids watching the car, and the square was hot, and the trees were green, and the flags hung on their staffs, and it was good to get out of the sun and under the shade of the arcade that runs all the way around the square.",0.4404,0.4404,0.056,0.0,0.944,1,0,0
+576,"Montoya was glad to see us, and shook hands and gave us good rooms looking out on the square, and then we washed and cleaned up and went down-stairs in the dining-room for lunch.",0.6705,0.6705,0.154,0.037,0.809,1,0,0
+577,It is always cool in the down-stairs dining-room and we had a very good lunch.,0.6697,0.6697,0.314,0.0,0.686,1,0,0
+578,He said it with an air of superior knowledge that irritated both of us.,0.128,0.128,0.189,0.162,0.649,1,0,0
+579,"“It’s a sure thing they’ll come,” I said.",0.3182,0.3182,0.315,0.0,0.685,1,0,0
+580,He smiled.,0.5423,0.5423,0.778,0.0,0.222,1,0,0
+581,"“You’ll probably win it back at bridge, anyway.” “You haven’t got it yet,” Bill said.",0.5859,0.5859,0.213,0.0,0.787,1,0,0
+582,"“It’s not open till four.” We had coffee at the Iruña, sitting in comfortable wicker chairs looking out from the cool of the arcade at the big square.",0.6808,0.6808,0.177,0.0,0.823,1,0,0
+583,"It was very hot, but I kept on the shady side of the streets and went through the market and had a good time seeing the town again.",0.5927,0.5927,0.133,0.0,0.867,1,0,0
+584,The first time I ever saw it I thought the façade was ugly but I liked it now.,0.3716,0.3716,0.196,0.114,0.69,1,0,0
+585,"It was dim and dark and the pillars went high up, and there were people praying, and it smelt of incense, and there were some wonderful big windows.",0.7351,0.7351,0.193,0.0,0.807,1,0,0
+586,"I knelt and started to pray and prayed for everybody I thought of, Brett and Mike and Bill and Robert Cohn and myself, and all the bull-fighters, separately for the ones I liked, and lumping all the rest, then I prayed for myself again, and while I was praying for myself I found I was getting sleepy, so I prayed that the bull-fights would be good, and that it would be a fine fiesta, and that we would get some fishing.",0.9246,0.9246,0.189,0.0,0.811,1,0,0
+587,"I wondered if there was anything else I might pray for, and I thought I would like to have some money, so I prayed that I would make a lot of money, and then I started to think how I would make it, and thinking of making money reminded me of the count, and I started wondering about where he was, and regretting I hadn’t seen him since that night in Montmartre, and about something funny Brett told me about him, and as all the time I was kneeling with my forehead on the wood in front of me, and was thinking of myself as praying, I was a little ashamed, and regretted that I was such a rotten Catholic, but realized there was nothing I could do about it, at least for a while, and maybe never, but that anyway it was a grand religion, and I only wished I felt religious and maybe I would the next time; and then I was out in the hot sun on the steps of the cathedral, and the forefingers and the thumb of my right hand were still damp, and I felt them dry in the sun.",0.8329,0.8329,0.083,0.041,0.876,1,0,0
+588,I was enjoying Cohn’s nervousness.,0.296,0.296,0.447,0.289,0.263,1,0,0
+589,I hoped Brett would be on the train.,0.3818,0.3818,0.302,0.0,0.698,1,0,0
+590,I have never seen a man in civil life as nervous as Robert Cohn—nor as eager.,0.1027,0.1027,0.151,0.127,0.723,1,0,0
+591,I was enjoying it.,0.5267,0.5267,0.63,0.0,0.37,1,0,0
+592,"We waited till everybody had gone through and out of the station and gotten into buses, or taken cabs, or were walking with their friends or relatives through the dark into the town.",0.4767,0.4767,0.088,0.0,0.912,1,0,0
+593,"Can you bet on bull-fights?” “You could,” Bill said, “but you don’t need to.” “It would be like betting on the war,” I said.",0.3612,0.3612,0.102,0.0,0.898,1,0,0
+594,"“You don’t need any economic interest.” “I’m very curious to see them,” Robert said.",0.3804,0.3804,0.166,0.0,0.834,1,0,0
+595,He had a telegram in his hand.,0.4939,0.4939,0.39,0.0,0.61,1,0,0
+596,"“That sounds like a good idea,” Cohn said.",0.6597,0.6597,0.519,0.0,0.481,1,0,0
+597,"“This is a comfortable café,” he said.",0.5106,0.5106,0.398,0.0,0.602,1,0,0
+598,"“Did you have a good night, Jake?” “I slept like a log.” “I didn’t sleep very well.",0.7778,0.7778,0.394,0.0,0.606,1,0,0
+599,He seems like a nice old fellow.,0.6486,0.6486,0.57,0.0,0.43,1,0,0
+600,"“They may not come here for three or four days now if they start on parties at San Sebastian.” “That’s just it,” said Robert.",0.4019,0.4019,0.105,0.0,0.895,1,0,0
+601,He was being confidential now and it was giving him pleasure to be able to talk with the understanding that I knew there was something between him and Brett.,0.7269,0.7269,0.19,0.0,0.81,1,0,0
+602,“I wish I could go.,0.4019,0.4019,0.474,0.0,0.526,1,0,0
+603,We’ve been looking forward to this fishing all winter.” He was being sentimental about it.,0.3182,0.3182,0.141,0.0,0.859,1,0,0
+604,As soon as they come I’ll bring them right up.” “Let’s find Bill.” “I want to go over to the barber-shop.” “See you at lunch.” I found Bill up in his room.,0.0772,0.0772,0.042,0.0,0.958,1,0,0
+605,"“Oh, yes, he told me all about it last night,” Bill said.",0.4019,0.4019,0.197,0.0,0.803,1,0,0
+606,“He’s a great little confider.,0.6249,0.6249,0.577,0.0,0.423,1,0,0
+607,"Thank God, I’m a travelling man.",0.5574,0.5574,0.605,0.0,0.395,1,0,0
+608,"Haven’t you got some more Jewish friends you could bring along?” He rubbed his chin with his thumb, looked at it, and then started scraping again.",0.5233,0.5233,0.119,0.0,0.881,1,0,0
+609,"“You’ve got some fine ones yourself.” “Oh, yes.",0.5423,0.5423,0.429,0.0,0.571,1,0,0
+610,"The funny thing is he’s nice, too.",0.6908,0.6908,0.533,0.0,0.467,1,0,0
+611,I like him.,0.3612,0.3612,0.714,0.0,0.286,1,0,0
+612,She said she thought it would be good for him.” “What bloody-fool things people do.,0.4404,0.4404,0.172,0.0,0.828,1,0,0
+613,"Why not me?” He looked at his face carefully in the glass, put a big dab of lather on each cheek-bone.",0.128,0.128,0.073,0.0,0.927,1,0,0
+614,“It’s an honest face.,0.5106,0.5106,0.524,0.0,0.476,1,0,0
+615,It’s a face any woman would be safe with.” “She’d never seen it.” “She should have.,0.4404,0.4404,0.172,0.0,0.828,1,0,0
+616,"My son”—he pointed the razor at me—“go west with this face and grow up with the country.” He ducked down to the bowl, rinsed his face with cold water, put on some alcohol, and then looked at himself carefully in the glass, pulling down his long upper lip.",0.128,0.128,0.031,0.0,0.969,1,0,0
+617,"People were on top of the bus, and others were climbing up a ladder.",0.2023,0.2023,0.13,0.0,0.87,1,0,0
+618,"Bill went up and Robert sat beside Bill to save a place for me, and I went back in the hotel to get a couple of bottles of wine to take with us.",0.4939,0.4939,0.099,0.0,0.901,1,0,0
+619,"Men and women were sitting on all the baggage and boxes on top, and the women all had their fans going in the sun.",0.2023,0.2023,0.073,0.0,0.927,1,0,0
+620,It certainly was hot.,0.34,0.34,0.444,0.0,0.556,1,0,0
+621,Robert climbed down and I fitted into the place he had saved on the one wooden seat that ran across the top.,0.5574,0.5574,0.195,0.0,0.805,1,0,0
+622,"A Basque with a big leather wine-bag in his lap lay across the top of the bus in front of our seat, leaning back against our legs.",0.2023,0.2023,0.07,0.0,0.93,1,0,0
+623,"He offered the wine-skin to Bill and to me, and when I tipped it up to drink he imitated the sound of a klaxon motor-horn so well and so suddenly that I spilled some of the wine, and everybody laughed.",0.6948,0.6948,0.141,0.0,0.859,1,0,0
+624,He apologized and made me take another drink.,0.3182,0.3182,0.247,0.0,0.753,1,0,0
+625,He was very good at it.,0.4927,0.4927,0.39,0.0,0.61,1,0,0
+626,The Basques liked it.,0.4215,0.4215,0.483,0.0,0.517,1,0,0
+627,As soon as we started out on the road outside of town it was cool.,0.3182,0.3182,0.141,0.0,0.859,1,0,0
+628,It felt nice riding high up and close under the trees.,0.4215,0.4215,0.219,0.0,0.781,1,0,0
+629,"The bus went quite fast and made a good breeze, and as we went out along the road with the dust powdering the trees and down the hill, we had a fine view, back through the trees, of the town rising up from the bluff above the river.",0.5719,0.5719,0.097,0.0,0.903,1,0,0
+630,"“Pretty nice, eh?” “These Basques are swell people,” Bill said.",0.4215,0.4215,0.237,0.0,0.763,1,0,0
+631,He wore a black smock like all the rest.,0.3612,0.3612,0.263,0.0,0.737,1,0,0
+632,"The Basque wagged a forefinger at him and handed the bottle back, slapping in the cork with the palm of his hand.",0.4939,0.4939,0.138,0.0,0.862,1,0,0
+633,"“Not like that.” One snatched the bottle away from the owner, who was himself about to give a demonstration.",0.4404,0.4404,0.196,0.0,0.804,1,0,0
+634,"He was a young fellow and he held the wine-bottle at full arms’ length and raised it high up, squeezing the leather bag with his hand so the stream of wine hissed into his mouth.",0.4939,0.4939,0.088,0.0,0.912,1,0,0
+635,“Whose wine is that?” The drinker waggled his little finger at him and smiled at us with his eyes.,0.5423,0.5423,0.163,0.0,0.837,1,0,0
+636,The road climbed up into the hills and left the rich grain-fields below.,0.5574,0.5574,0.231,0.0,0.769,1,0,0
+637,"It was cool and dusky, and we stood in front of a long wooden counter with two women behind it serving drinks.",0.3182,0.3182,0.103,0.0,0.897,1,0,0
+638,"Then we bought, and then we all went out into the sunlight and the heat, and climbed back on top of the bus.",0.2023,0.2023,0.076,0.0,0.924,1,0,0
+639,I was going to go back but my wife she don’t like to travel.,0.5023,0.5023,0.213,0.0,0.787,1,0,0
+640,"“I been in Chicago, St. Louis, Kansas City, Denver, Los Angeles, Salt Lake City.” He named them carefully.",0.128,0.128,0.081,0.0,0.919,1,0,0
+641,"“You can’t get this in America, eh?” “There’s plenty if you can pay for it.” “What you come over here for?” “We’re going to the fiesta at Pamplona.” “You like the bull-fights?” “Sure.",0.6946,0.6946,0.164,0.037,0.799,1,0,0
+642,"“I guess I like them.” Then after a little: “Where you go now?” “Up to Burguete to fish.” “Well,” he said, “I hope you catch something.” He shook hands and turned around to the back seat again.",0.6124,0.6124,0.139,0.036,0.825,1,0,0
+643,The other Basques had been impressed.,0.4767,0.4767,0.383,0.0,0.617,1,0,0
+644,He sat back comfortably and smiled at me when I turned around to look at the country.,0.743,0.743,0.31,0.0,0.69,1,0,0
+645,The bus levelled down onto the straight line of road that ran to Burguete.,0.2263,0.2263,0.128,0.0,0.872,1,0,0
+646,I’m not going to wade a stream in this weather.” There was an upright piano in the far corner of the room beyond the wooden tables and Bill went over and started to play.,0.34,0.34,0.07,0.0,0.93,1,0,0
+647,"Well, I thought, it’s only a few days.",0.2732,0.2732,0.296,0.0,0.704,1,0,0
+648,"He blew his breath at me to show how cold it was, and went on playing.",0.2023,0.2023,0.107,0.0,0.893,1,0,0
+649,Bill was still playing.,0.2023,0.2023,0.375,0.0,0.625,1,0,0
+650,“This isn’t going to keep me warm permanently.” I went out and told the woman what a rum punch was and how to make it.,0.2263,0.2263,0.079,0.0,0.921,1,0,0
+651,"We did not lose money on the wine, and the girl was shy but nice about bringing it.",0.5898,0.5898,0.244,0.069,0.687,1,0,0
+652,After supper we went up-stairs and smoked and read in bed to keep warm.,0.2263,0.2263,0.128,0.0,0.872,1,0,0
+653,It felt good to be warm and in bed.,0.5859,0.5859,0.407,0.0,0.593,1,0,0
+654,The stream was clear and shallow but it did not look trouty.,0.2023,0.2023,0.141,0.0,0.859,1,0,0
+655,They slid out of sight as I lifted the sod and I dug carefully and got a good many.,0.5267,0.5267,0.239,0.0,0.761,1,0,0
+656,Burying your money?” “You lazy bum!” “Been working for the common good?,0.2621,0.2621,0.221,0.156,0.623,1,0,0
+657,Splendid.,0.5859,0.5859,1.0,0.0,0.0,1,0,0
+658,"I want you to do that every morning.” “Come on,” I said.",0.0772,0.0772,0.126,0.0,0.874,1,0,0
+659,I thought you just wanted me to get up for fun.,0.5106,0.5106,0.268,0.0,0.732,1,0,0
+660,Fine.,0.2023,0.2023,1.0,0.0,0.0,1,0,0
+661,"You go out and dig some more worms and I’ll be right down.” “Oh, go to hell!” “Work for the good of all.” Bill stepped into his underclothes.",0.4926,0.4926,0.106,0.0,0.894,1,0,0
+662,When you’re feeling .,0.128,0.128,0.429,0.0,0.571,1,0,0
+663,When they’re feeling .,0.128,0.128,0.429,0.0,0.571,1,0,0
+664,It’s just like the Fratellinis used to be.” The girl came in with the coffee and buttered toast.,0.3612,0.3612,0.128,0.0,0.872,1,0,0
+665,I wish I could talk Spanish.” The coffee was good and we drank it out of big bowls.,0.6808,0.6808,0.286,0.0,0.714,1,0,0
+666,That’s better.,0.4404,0.4404,0.744,0.0,0.256,1,0,0
+667,"And you claim you want to be a writer, too.",0.0772,0.0772,0.14,0.0,0.86,1,0,0
+668,What do you want me to do?,0.0772,0.0772,0.178,0.0,0.822,1,0,0
+669,Coffee is good for you.,0.4404,0.4404,0.42,0.0,0.58,1,0,0
+670,Nobody that ever left their own country ever wrote anything worth printing.,0.2263,0.2263,0.147,0.0,0.853,1,0,0
+671,You get precious.,0.5719,0.5719,0.649,0.0,0.351,1,0,0
+672,"You hang around cafés.” “It sounds like a swell life,” I said.",0.3612,0.3612,0.217,0.0,0.783,1,0,0
+673,One group claims women support you.,0.4019,0.4019,0.351,0.0,0.649,1,0,0
+674,"Like Henry’s bicycle.” He had been going splendidly, but he stopped.",0.1154,0.1154,0.269,0.166,0.565,1,0,0
+675,“A plane is sort of like a tricycle.,0.2975,0.2975,0.269,0.0,0.731,1,0,0
+676,"The joystick works the same way.” “But you don’t pedal it.” “No,” I said, “I guess you don’t pedal it.” “Let’s lay off that,” Bill said.",0.1779,0.1779,0.066,0.0,0.934,1,0,0
+677,"I was just standing up for the tricycle.” “I think he’s a good writer, too,” Bill said.",0.4404,0.4404,0.172,0.0,0.828,1,0,0
+678,Anybody ever tell you you were a good guy?” “I’m not a good guy.” “Listen.,0.7003,0.7003,0.345,0.0,0.655,1,0,0
+679,He was in love with General Grant.,0.7717,0.7717,0.573,0.0,0.427,1,0,0
+680,Lincoln just freed the slaves on a bet.,0.4019,0.4019,0.31,0.0,0.69,1,0,0
+681,"The trees were big, and the foliage was thick but it was not gloomy.",0.1695,0.1695,0.114,0.0,0.886,1,0,0
+682,"There was no undergrowth, only the smooth grass, very green and fresh, and the big gray trees well spaced as though it were a park.",0.3535,0.3535,0.167,0.079,0.754,1,0,0
+683,"Finally, the road came out on the top of the hills.",0.2023,0.2023,0.153,0.0,0.847,1,0,0
+684,We were on the top of the height of land that was the highest part of the range of wooded hills we had seen from Burguete.,0.2023,0.2023,0.067,0.0,0.933,1,0,0
+685,There were wild strawberries growing on the sunny side of the ridge in a little clearing in the trees.,0.5423,0.5423,0.22,0.0,0.78,1,0,0
+686,"The hills ahead were not wooded, and there were great fields of yellow gorse.",0.6249,0.6249,0.24,0.0,0.76,1,0,0
+687,That’s a nice word.,0.4215,0.4215,0.583,0.0,0.417,1,0,0
+688,"Bill put the pack against one of the trees and we jointed up the rods, put on the reels, tied on leaders, and got ready to fish.",0.3612,0.3612,0.088,0.0,0.912,1,0,0
+689,“You’re sure this thing has trout in it?” Bill asked.,0.3182,0.3182,0.204,0.0,0.796,1,0,0
+690,“Where’d I better go?,0.4404,0.4404,0.592,0.0,0.408,1,0,0
+691,Up or down?” “Down is the best.,0.6369,0.6369,0.412,0.0,0.588,1,0,0
+692,"“Take a worm can.” “No, I don’t want one.",0.0772,0.0772,0.178,0.0,0.822,1,0,0
+693,Bill waved his hand and started down the stream.,0.4939,0.4939,0.286,0.0,0.714,1,0,0
+694,It was so cold my hand and wrist felt numbed.,0.3744,0.3744,0.259,0.142,0.599,1,0,0
+695,"I put back the slab of wood, and hoped nobody would find the wine.",0.3818,0.3818,0.178,0.0,0.822,1,0,0
+696,"Before I could finish baiting, another trout jumped at the falls, making the same lovely arc and disappearing into the water that was thundering down.",0.5859,0.5859,0.142,0.0,0.858,1,0,0
+697,"He was a good trout, and I banged his head against the timber so that he quivered out straight, and then slipped him into my bag.",0.5859,0.5859,0.179,0.0,0.821,1,0,0
+698,They were beautifully colored and firm and hard from the cold water.,0.5106,0.5106,0.245,0.093,0.662,1,0,0
+699,"They looked nice in the ferns, and now the bag was bulky, and I put it in the shade of the tree.",0.4215,0.4215,0.123,0.0,0.877,1,0,0
+700,"The book was something by A. E. W. Mason, and I was reading a wonderful story about a man who had been frozen in the Alps and then fallen into a glacier and disappeared, and his bride was going to wait twenty-four years exactly for his body to come out on the moraine, while her true love waited too, and they were still waiting when Bill came up.",0.8074,0.8074,0.144,0.059,0.796,1,0,0
+701,"He had his rod and his bag and his net all in one hand, and he was sweating.",0.4939,0.4939,0.158,0.0,0.842,1,0,0
+702,His face was sweaty and happy.,0.5719,0.5719,0.425,0.0,0.575,1,0,0
+703,"“How are yours?” “Smaller.” “Let’s see them.” “They’re packed.” “How big are they really?” “They’re all about the size of your smallest.” “You’re not holding out on me?” “I wish I were.” “Get them all on worms?” “Yes.” “You lazy bum!” Bill put the trout in the bag and started for the river, swinging the open bag.",0.351,0.351,0.065,0.041,0.893,1,0,0
+704,"“The cold helps it,” I said.",0.3818,0.3818,0.394,0.0,0.606,1,0,0
+705,As a tribute to the Great Commoner.,0.6249,0.6249,0.451,0.0,0.549,1,0,0
+706,"First the chicken; then the egg.” “Wonder what day God created the chicken?” “Oh,” said Bill, sucking the drumstick, “how should we know?",0.5362,0.5362,0.175,0.0,0.825,1,0,0
+707,Let us rejoice and believe and give thanks.” “Eat an egg.” Bill gestured with the drumstick in one hand and the bottle of wine in the other.,0.7269,0.7269,0.196,0.0,0.804,1,0,0
+708,“Let us rejoice in our blessings.,0.7506,0.7506,0.615,0.0,0.385,1,0,0
+709,"“Let us not doubt, brother.",0.2755,0.2755,0.345,0.0,0.655,1,0,0
+710,"Let us accept on faith and simply say—I want you to join with me in saying—What shall we say, brother?” He pointed the drumstick at me and went on.",0.7845,0.7845,0.263,0.0,0.737,1,0,0
+711,"We will say, and I for one am proud to say—and I want you to say with me, on your knees, brother.",0.5267,0.5267,0.196,0.0,0.804,1,0,0
+712,"“Didn’t you like Bryan?” “I loved Bryan,” said Bill.",0.7506,0.7506,0.478,0.0,0.522,1,0,0
+713,“We were like brothers.” “Where did you know him?” “He and Mencken and I all went to Holy Cross together.” “And Frankie Fritsch.” “It’s a lie.,0.3612,0.3612,0.098,0.0,0.902,1,0,0
+714,“They ought to take this damn humidity away.” “Have another shot.” “Is this all we’ve got?” “Only the two bottles.” “Do you know what you are?” Bill looked at the bottle affectionately.,0.1116,0.1116,0.097,0.085,0.818,1,0,0
+715,"“I had a lovely dream,” Bill said.",0.5859,0.5859,0.432,0.0,0.568,1,0,0
+716,"“I don’t remember what it was about, but it was a lovely dream.” “I don’t think I dreamt.” “You ought to dream,” Bill said.",0.7351,0.7351,0.198,0.0,0.802,1,0,0
+717,We stayed five days at Burguete and had good fishing.,0.4404,0.4404,0.244,0.0,0.756,1,0,0
+718,"It was hot enough so that it felt good to wade in a cold stream, and the sun dried you when you came out and sat on the bank.",0.4404,0.4404,0.097,0.0,0.903,1,0,0
+719,"In the evenings we played three-handed bridge with an Englishman named Harris, who had walked over from Saint Jean Pied de Port and was stopping at the inn for the fishing.",0.2023,0.2023,0.073,0.048,0.879,1,0,0
+720,He was very pleasant and went with us twice to the Irati River.,0.5563,0.5563,0.23,0.0,0.77,1,0,0
+721,He looked up and smiled.,0.5423,0.5423,0.467,0.0,0.533,1,0,0
+722,"It was dated San Sebastian, Sunday:     DEAR JAKE,     We got here Friday, Brett passed out on the train, so brought     her here for 3 days rest with old friends of ours.",0.7531,0.7531,0.187,0.0,0.813,1,0,0
+723,"All our love and sorry to be late,     but Brett was really done in and will be quite all right by     Tues. and is practically so now.",0.3506,0.3506,0.09,0.04,0.87,1,0,0
+724,"Love to all the chaps,                                                           MICHAEL.",0.6369,0.6369,0.457,0.0,0.543,1,0,0
+725,"Yes, quite.",0.4019,0.4019,0.73,0.0,0.27,1,0,0
+726,Wonderful how one loses track of the days up here in the mountains.” “Yes.,0.34,0.34,0.206,0.128,0.667,1,0,0
+727,We’ve been here nearly a week.” “I hope you’re not thinking of leaving?” “Yes.,0.4404,0.4404,0.195,0.0,0.805,1,0,0
+728,I had hoped we’d all have another go at the Irati together.” “We have to go _into_ Pamplona.,0.3818,0.3818,0.14,0.0,0.86,1,0,0
+729,We’ve had a jolly time here at Burguete.” “Come on in to Pamplona.,0.5106,0.5106,0.231,0.0,0.769,1,0,0
+730,"We can play some bridge there, and there’s going to be a damned fine fiesta.” “I’d like to.",0.4767,0.4767,0.3,0.117,0.583,1,0,0
+731,Awfully nice of you to ask me.,0.4754,0.4754,0.34,0.0,0.66,1,0,0
+732,"I’d best stop on here, though.",0.4588,0.4588,0.404,0.212,0.385,1,0,0
+733,"I’ve not much more time to fish.” “You want those big ones in the Irati.” “I say, I do, you know.",0.0772,0.0772,0.064,0.0,0.936,1,0,0
+734,They’re enormous trout there.” “I’d like to try them once more.” “Do.,0.3612,0.3612,0.185,0.0,0.815,1,0,0
+735,"Be a good chap.” “We really have to get into town,” I said.",0.4404,0.4404,0.225,0.0,0.775,1,0,0
+736,“What a pity.” After breakfast Bill and I were sitting warming in the sun on a bench out in front of the inn and talking it over.,0.1531,0.1531,0.065,0.0,0.935,1,0,0
+737,"‘I come Thursday.’ That gives you a lot of dope, doesn’t it?” “It gives you all the dope that’s of interest to Cohn.” “We’re going in, anyway,” I said.",0.4588,0.4588,0.103,0.0,0.897,1,0,0
+738,“There’s no use trying to move Brett and Mike out here and back before the fiesta.,0.2263,0.2263,0.161,0.114,0.725,1,0,0
+739,"“It’s a remarkable place,” Harris said, when we came out.",0.5574,0.5574,0.31,0.0,0.69,1,0,0
+740,"“It’s a remarkable place, though,” Harris said.",0.5574,0.5574,0.419,0.0,0.581,1,0,0
+741,He liked Harris.,0.4215,0.4215,0.583,0.0,0.417,1,0,0
+742,"“It looks to me like a pub,” I said.",0.3612,0.3612,0.294,0.0,0.706,1,0,0
+743,Harris would not let us pay.,0.0762,0.0762,0.206,0.0,0.794,1,0,0
+744,"He talked Spanish quite well, and the innkeeper would not take our money.",0.3384,0.3384,0.166,0.0,0.834,1,0,0
+745,"You don’t know what it’s meant to me to have you chaps up here.” “We’ve had a grand time, Harris.” Harris was a little tight.",0.4588,0.4588,0.12,0.0,0.88,1,0,0
+746,"We _have_ had such a jolly good time.” “How about another bottle around?” “Jolly good idea,” said Harris.",0.8442,0.8442,0.394,0.0,0.606,1,0,0
+747,“Or we don’t drink it.” “I wish you’d let me pay for it.,0.3182,0.3182,0.179,0.093,0.728,1,0,0
+748,"It _does_ give me pleasure, you know.” “This is going to give me pleasure,” Bill said.",0.5719,0.5719,0.198,0.0,0.802,1,0,0
+749,"“We call you Harris because we’re so fond of you.” “I say, Barnes.",0.5777,0.5777,0.238,0.0,0.762,1,0,0
+750,I only thought if you fished them some time it might remind you of what a good time we had.” The bus started.,0.4404,0.4404,0.127,0.0,0.873,1,0,0
+751,“I think he really did have a good time.” “Harris?,0.4877,0.4877,0.283,0.0,0.717,1,0,0
+752,You bet he did.” “I wish he’d come into Pamplona.” “He wanted to fish.” “Yes.,0.4019,0.4019,0.162,0.0,0.838,1,0,0
+753,Out in the plaza they were stringing electric-light wires to light the plaza for the fiesta.,0.4767,0.4767,0.171,0.0,0.829,1,0,0
+754,"“Your friends are here,” he said.",0.4767,0.4767,0.383,0.0,0.617,1,0,0
+755,Mr. Cohn and Mr. Campbell and Lady Ashley.” He smiled as though there were something I would hear about.,0.5423,0.5423,0.171,0.0,0.829,1,0,0
+756,I’ve saved you the rooms you had.” “That’s fine.,0.5574,0.5574,0.397,0.0,0.603,1,0,0
+757,All the rooms we looked at.” “Where are our friends now?” “I think they went to the pelota.” “And how about the bulls?” Montoya smiled.,0.7882,0.7882,0.232,0.0,0.768,1,0,0
+758,"Do you all go down?” “Oh, yes.",0.4019,0.4019,0.31,0.0,0.69,1,0,0
+759,They’ve never seen a desencajonada.” Montoya put his hand on my shoulder.,0.4939,0.4939,0.242,0.0,0.758,1,0,0
+760,“I’ll see you there.” He smiled again.,0.5423,0.5423,0.368,0.0,0.632,1,0,0
+761,He always smiled as though bull-fighting were a very special secret between the two of us; a rather shocking but really very deep secret that we knew about.,0.3392,0.3392,0.146,0.064,0.79,1,0,0
+762,"He always smiled as though there were something lewd about the secret to outsiders, but that it was something that we understood.",0.3071,0.3071,0.097,0.0,0.903,1,0,0
+763,It would not do to expose it to people who would not understand.,0.1139,0.1139,0.107,0.0,0.893,1,0,0
+764,"“Your friend, is he aficionado, too?” Montoya smiled at Bill.",0.7717,0.7717,0.456,0.0,0.544,1,0,0
+765,“He’s a real aficionado.” “But he’s not aficionado like you are.” Aficion means passion.,0.224,0.224,0.186,0.131,0.683,1,0,0
+766,An aficionado is one who is passionate about the bull-fights.,0.5267,0.5267,0.274,0.0,0.726,1,0,0
+767,"All the good bull-fighters stayed at Montoya’s hotel; that is, those with aficion stayed there.",0.4404,0.4404,0.172,0.0,0.828,1,0,0
+768,The good ones came each year.,0.4404,0.4404,0.367,0.0,0.633,1,0,0
+769,The photographs were dedicated to Juanito Montoya or to his sister.,0.4588,0.4588,0.231,0.0,0.769,1,0,0
+770,They often had the most flattering inscriptions.,0.3804,0.3804,0.302,0.0,0.698,1,0,0
+771,It was simply the pleasure of discovering what we each felt.,0.5719,0.5719,0.27,0.0,0.73,1,0,0
+772,"They were always very polite at first, and it amused them very much that I should be an American.",0.4215,0.4215,0.141,0.0,0.859,1,0,0
+773,Somehow it was taken for granted that an American could not have aficion.,0.25,0.25,0.143,0.0,0.857,1,0,0
+774,"He might simulate it or confuse it with excitement, but he could not really have it.",0.1655,0.1655,0.12,0.083,0.798,1,0,0
+775,It seemed as though they wanted to touch you to make it certain.,0.2732,0.2732,0.149,0.0,0.851,1,0,0
+776,Montoya could forgive anything of a bull-fighter who had aficion.,0.2732,0.2732,0.208,0.0,0.792,1,0,0
+777,For one who had aficion he could forgive anything.,0.2732,0.2732,0.208,0.0,0.792,1,0,0
+778,At once he forgave me all my friends.,0.6705,0.6705,0.478,0.0,0.522,1,0,0
+779,"“It’s pretty good,” I said.",0.4939,0.4939,0.516,0.0,0.484,1,0,0
+780,They would not open until the day before the fiesta.,0.4767,0.4767,0.256,0.0,0.744,1,0,0
+781,Brett was happy.,0.5719,0.5719,0.649,0.0,0.351,1,0,0
+782,Look at Bill.” “Did you get good fishing?” Mike asked.,0.4404,0.4404,0.244,0.0,0.756,1,0,0
+783,"How I wish those dear days were back.” “Don’t be an ass.” “Were you in the war, Mike?” Cohn asked.",0.1027,0.1027,0.21,0.155,0.635,1,0,0
+784,That story reflects great discredit on me.” “What story’s that?” “Brett will tell you.,0.6249,0.6249,0.24,0.0,0.76,1,0,0
+785,"So naturally I had no medals, and I stopped at my tailor’s and he was impressed by the invitation, and I thought that’s a good piece of business, and I said to him: ‘You’ve got to fix me up with some medals.’ He said: ‘What medals, sir?’ And I said: ‘Oh, any medals.",0.3892,0.3892,0.112,0.082,0.806,1,0,0
+786,‘Just give me a good lot.,0.4404,0.4404,0.42,0.0,0.58,1,0,0
+787,"Well, I went to the dinner, and it was the night they’d shot Henry Wilson, so the Prince didn’t come and the King didn’t come, and no one wore any medals, and all these coves were busy taking off their medals, and I had mine in my pocket.” He stopped for us to laugh.",0.3818,0.3818,0.099,0.071,0.83,1,0,0
+788,“But no matter.” We were all laughing.,0.25,0.25,0.308,0.212,0.481,1,0,0
+789,We were all laughing.,0.4939,0.4939,0.516,0.0,0.484,1,0,0
+790,"“Rotten luck for the tailor,” he said.",0.4588,0.4588,0.333,0.0,0.667,1,0,0
+791,“I should think it would have been grand for the tailor.” “Frightfully good tailor.,0.7096,0.7096,0.33,0.0,0.67,1,0,0
+792,“I had a lot of friends.,0.4767,0.4767,0.437,0.0,0.563,1,0,0
+793,False friends.,0.4767,0.4767,0.756,0.0,0.244,1,0,0
+794,We passed a wine-shop with a sign in the window: Good Wine 30 Centimes A Liter.,0.4404,0.4404,0.195,0.0,0.805,1,0,0
+795,"At the far end was the stone wall of the corrals, with apertures in the stone that were like loopholes running all along the face of each corral.",0.3612,0.3612,0.085,0.0,0.915,1,0,0
+796,"A ladder led up to the top of the wall, and people were climbing up the ladder and spreading down to stand on the walls that separated the two corrals.",0.2023,0.2023,0.06,0.0,0.94,1,0,0
+797,“They want to see the bulls.” Mike and Bill were on the other wall across the pit of the corral.,0.0772,0.0772,0.064,0.0,0.936,1,0,0
+798,Men were standing on the wall ready to pull up the gate of the corral and then the gate of the cage.,0.3612,0.3612,0.106,0.0,0.894,1,0,0
+799,The men on top of the wall leaned back and pulled up the door of the corral.,0.2023,0.2023,0.101,0.0,0.899,1,0,0
+800,"The bull, striking into the wood from side to side with his horns, made a great noise.",0.6249,0.6249,0.215,0.0,0.785,1,0,0
+801,"Then I saw a dark muzzle and the shadow of horns, and then, with a clattering on the wood in the hollow box, the bull charged and came out into the corral, skidding with his forefeet in the straw as he stopped, his head up, the great hump of muscle on his neck swollen tight, his body muscles quivering as he looked up at the crowd on the stone walls.",0.34,0.34,0.057,0.052,0.891,1,0,0
+802,"“My God, isn’t he beautiful?” Brett said.",0.2732,0.2732,0.259,0.0,0.741,1,0,0
+803,“He’s got a left and a right just like a boxer.” “Not really?” “You watch.” “It goes too fast.” “Wait.,0.3612,0.3612,0.135,0.0,0.865,1,0,0
+804,"In the far corner a man, from behind one of the plank shelters, attracted the bull, and while the bull was facing away the gate was pulled up and a second bull came out into the corral.",0.4215,0.4215,0.076,0.0,0.924,1,0,0
+805,"She was watching, fascinated.",0.4767,0.4767,0.508,0.0,0.492,1,0,0
+806,"“Don’t you ever detach me from the herd, Mike.” “I say,” Mike said, “they _were_ fine bulls, weren’t they?",0.2023,0.2023,0.091,0.0,0.909,1,0,0
+807,"“I would have thought you’d loved being a steer, Robert.” “What do you mean, Mike?” “They lead such a quiet life.",0.5994,0.5994,0.178,0.0,0.822,1,0,0
+808,Bill laughed.,0.4588,0.4588,0.75,0.0,0.25,1,0,0
+809,“I should think you’d love it.,0.6369,0.6369,0.457,0.0,0.543,1,0,0
+810,Say something funny.,0.4404,0.4404,0.592,0.0,0.408,1,0,0
+811,"Can’t you see we’re all having a good time here?” “Come off it, Michael.",0.4404,0.4404,0.195,0.0,0.805,1,0,0
+812,“I’m not drunk.,0.2584,0.2584,0.504,0.0,0.496,1,0,0
+813,"_Is_ Robert Cohn going to follow Brett around like a steer all the time?” “Shut up, Michael.",0.3612,0.3612,0.143,0.0,0.857,1,0,0
+814,Aren’t the bulls lovely?,0.5859,0.5859,0.559,0.0,0.441,1,0,0
+815,"Don’t you like them, Bill?",0.3612,0.3612,0.385,0.0,0.615,1,0,0
+816,"She’s slept with lots of better people than you.” “Shut up,” Cohn said.",0.4404,0.4404,0.195,0.0,0.805,1,0,0
+817,You know you didn’t have a good time at San Sebastian because none of our friends would invite you on any of the parties.,0.5641,0.5641,0.25,0.089,0.661,1,0,0
+818,"How do you think it makes _me_ feel?” “You’re a splendid one to talk about manners,” Brett said.",0.5859,0.5859,0.192,0.0,0.808,1,0,0
+819,"“You’ve such lovely manners.” “Come on, Robert,” Bill said.",0.5859,0.5859,0.322,0.0,0.678,1,0,0
+820,"“I say, Michael, you might not be such a bloody ass,” she interrupted.",0.0531,0.0531,0.165,0.151,0.685,1,0,0
+821,We were all friends together.,0.4767,0.4767,0.437,0.0,0.563,1,0,0
+822,"“I’m not so damn drunk as I sounded,” he said.",0.6231,0.6231,0.421,0.0,0.579,1,0,0
+823,"“I didn’t say anything I didn’t mean.” “But you put it so badly,” Brett laughed.",0.5046,0.5046,0.201,0.0,0.799,1,0,0
+824,"I wouldn’t read them.” “Damned noble of you.” “No, listen, Jake.",0.4588,0.4588,0.25,0.0,0.75,1,0,0
+825,"But they weren’t ever Jews, and they didn’t come and hang about afterward.” “Damned good chaps,” Brett said.",0.5927,0.5927,0.185,0.0,0.815,1,0,0
+826,"I wouldn’t read them.” “You wouldn’t read any letters, darling.",0.5859,0.5859,0.322,0.0,0.678,1,0,0
+827,"Tell him either he must behave or get out.” “Yes,” I said, “it would be nice for me to tell him.” “Look, Brett.",0.4215,0.4215,0.118,0.0,0.882,1,0,0
+828,"That is perfect, you know.” “Oh, no.",0.3612,0.3612,0.339,0.202,0.459,1,0,0
+829,We’re all friends.,0.4767,0.4767,0.608,0.0,0.392,1,0,0
+830,"Aren’t we all friends, Jake?” “I can’t tell him.",0.4767,0.4767,0.279,0.0,0.721,1,0,0
+831,Damn good.,0.0516,0.0516,0.518,0.482,0.0,1,0,0
+832,"I wish I were one of these literary chaps.” “He’d be good, you know,” Brett said.",0.6808,0.6808,0.318,0.0,0.682,1,0,0
+833,"“He writes a good letter.” “I know,” I said.",0.4404,0.4404,0.326,0.0,0.674,1,0,0
+834,"And the funny thing is I think I was tight.” “Come on,” Brett said.",0.4404,0.4404,0.209,0.0,0.791,1,0,0
+835,"“Well, how did you like the bulls?” he asked.",0.3612,0.3612,0.238,0.0,0.762,1,0,0
+836,They were nice bulls.” “They’re all right”—Montoya shook his head—“but they’re not too good.” “What didn’t you like about them?” “I don’t know.,0.5994,0.5994,0.199,0.052,0.749,1,0,0
+837,They just didn’t give me the feeling that they were so good.” “I know what you mean.” “They’re all right.” “Yes.,0.128,0.128,0.07,0.0,0.93,1,0,0
+838,"They’re all right.” “How did your friends like them?” “Fine.” “Good,” Montoya said.",0.6808,0.6808,0.337,0.0,0.663,1,0,0
+839,"I don’t like Cohn, God knows, and I think it was a silly trick for him to go down to San Sebastian, but nobody has any business to talk like Mike.” “How’d you like the bulls?” “Grand.",0.8294,0.8294,0.272,0.028,0.701,1,0,0
+840,It’s grand the way they bring them out.” “To-morrow come the Miuras.” “When does the fiesta start?” “Day after to-morrow.” “We’ve got to keep Mike from getting so tight.,0.7269,0.7269,0.184,0.0,0.816,1,0,0
+841,That kind of stuff is terrible.” “We’d better get cleaned up for supper.” “Yes.,0.4404,0.4404,0.182,0.0,0.818,1,0,0
+842,"That will be a pleasant meal.” “Won’t it?” As a matter of fact, supper was a pleasant meal.",0.7717,0.7717,0.391,0.0,0.609,1,0,0
+843,She looked quite beautiful.,0.6361,0.6361,0.583,0.0,0.417,1,0,0
+844,"He was reserved and formal, and his face was still taut and sallow, but he cheered up finally.",0.6652,0.6652,0.207,0.0,0.793,1,0,0
+845,He could not stop looking at Brett.,0.2235,0.2235,0.239,0.0,0.761,1,0,0
+846,It seemed to make him happy.,0.5719,0.5719,0.425,0.0,0.575,1,0,0
+847,"It must have been pleasant for him to see her looking so lovely, and know he had been away with her and that every one knew it.",0.8468,0.8468,0.246,0.0,0.754,1,0,0
+848,Bill was very funny.,0.4927,0.4927,0.516,0.0,0.484,1,0,0
+849,They were good together.,0.4404,0.4404,0.492,0.0,0.508,1,0,0
+850,It seemed they were all such nice people.,0.4215,0.4215,0.286,0.0,0.714,1,0,0
+851,The country became very clear and the feeling of pressure in my head seemed to loosen.,0.2944,0.2944,0.224,0.112,0.664,1,0,0
+852,If I kept on reading that feeling would pass.,0.128,0.128,0.176,0.0,0.824,1,0,0
+853,Cohn said good night outside the door and went on up to his room.,0.4404,0.4404,0.182,0.0,0.818,1,0,0
+854,I heard them laugh.,0.5574,0.5574,0.643,0.0,0.357,1,0,0
+855,That was another bright idea.,0.4404,0.4404,0.42,0.0,0.58,1,0,0
+856,Women made such swell friends.,0.4767,0.4767,0.437,0.0,0.563,1,0,0
+857,"In the first place, you had to be in love with a woman to have a basis of friendship.",0.7964,0.7964,0.321,0.0,0.679,1,0,0
+858,I had been having Brett for a friend.,0.4939,0.4939,0.39,0.0,0.61,1,0,0
+859,Just exchange of values.,0.4019,0.4019,0.474,0.0,0.526,1,0,0
+860,You paid some way for everything that was any good.,0.4404,0.4404,0.244,0.0,0.756,1,0,0
+861,"I paid my way into enough things that I liked, so that I had a good time.",0.7152,0.7152,0.352,0.0,0.648,1,0,0
+862,"Either you paid by learning about them, or by experience, or by taking chances, or by money.",0.2023,0.2023,0.101,0.0,0.899,1,0,0
+863,Enjoying living was learning to get your money’s worth and knowing when you had it.,0.6486,0.6486,0.29,0.0,0.71,1,0,0
+864,You could get your money’s worth.,0.2263,0.2263,0.275,0.0,0.725,1,0,0
+865,The world was a good place to buy in.,0.4404,0.4404,0.293,0.0,0.707,1,0,0
+866,It seemed like a fine philosophy.,0.5106,0.5106,0.589,0.0,0.411,1,0,0
+867,"In five years, I thought, it will seem just as silly as all the other fine philosophies I’ve had.",0.2263,0.2263,0.153,0.0,0.847,1,0,0
+868,"Perhaps that wasn’t true, though.",0.4215,0.4215,0.412,0.0,0.588,1,0,0
+869,Brett was a good drunk.,0.128,0.128,0.397,0.329,0.274,1,0,0
+870,Bill was a good drunk.,0.128,0.128,0.397,0.329,0.274,1,0,0
+871,Cohn was never drunk.,0.2584,0.2584,0.404,0.0,0.596,1,0,0
+872,Maybe the Eskimo was a fine language.,0.2023,0.2023,0.265,0.0,0.735,1,0,0
+873,"I liked them, though.",0.4215,0.4215,0.583,0.0,0.417,1,0,0
+874,I liked the way they talked.,0.4215,0.4215,0.412,0.0,0.588,1,0,0
+875,That was another good thing you paid for and then had.,0.4404,0.4404,0.225,0.0,0.775,1,0,0
+876,The town was getting ready for the fiesta.,0.6808,0.6808,0.483,0.0,0.517,1,0,0
+877,"Out across the plain, where the horse and cattle fair would be, some gypsies had camped under the trees.",0.3182,0.3182,0.113,0.0,0.887,1,0,0
+878,"We met Cohn as we came out of church, and although it was obvious he had followed us, yet he was very pleasant and nice, and we all three went for a walk out to the gypsy camp, and Brett had her fortune told.",0.7688,0.7688,0.14,0.0,0.86,1,0,0
+879,"It was a good morning, there were high white clouds above the mountains.",0.4404,0.4404,0.209,0.0,0.791,1,0,0
+880,"It had rained a little in the night and it was fresh and cool on the plateau, and there was a wonderful view.",0.8074,0.8074,0.316,0.0,0.684,1,0,0
+881,"We all felt good and we felt healthy, and I felt quite friendly to Cohn.",0.8439,0.8439,0.453,0.0,0.547,1,0,0
+882,You could not be upset about anything on a day like that.,0.5696,0.5696,0.342,0.0,0.658,1,0,0
+883,That was the last day before the fiesta.,0.4767,0.4767,0.307,0.0,0.693,1,0,0
+884,"CHAPTER                                    15  At noon of Sunday, the 6th of July, the fiesta exploded.",0.4767,0.4767,0.205,0.0,0.795,1,0,0
+885,"There they were drinking, getting ready for the fiesta.",0.6808,0.6808,0.444,0.0,0.556,1,0,0
+886,They had come in so recently from the plains and the hills that it was necessary that they make their shifting in values gradually.,0.4019,0.4019,0.105,0.0,0.895,1,0,0
+887,They got their money’s worth in the wine-shops.,0.2263,0.2263,0.213,0.0,0.787,1,0,0
+888,Money still had a definite value in hours worked and bushels of grain sold.,0.5423,0.5423,0.29,0.0,0.71,1,0,0
+889,"Late in the fiesta it would not matter what they paid, nor where they bought.",0.4635,0.4635,0.181,0.063,0.757,1,0,0
+890,Now on the day of the starting of the fiesta of San Fermin they had been in the wine-shops of the narrow streets of the town since early morning.,0.4767,0.4767,0.1,0.0,0.9,1,0,0
+891,They were warming up.,0.1531,0.1531,0.348,0.0,0.652,1,0,0
+892,San Fermin is also a religious festival.,0.4939,0.4939,0.39,0.0,0.61,1,0,0
+893,The café was like a battleship stripped for action.,0.34,0.34,0.26,0.115,0.625,1,0,0
+894,To-day the waiters did not leave you alone all morning to read without asking if you wanted to order something.,0.2235,0.2235,0.138,0.0,0.862,1,0,0
+895,Before the waiter brought the sherry the rocket that announced the fiesta went up in the square.,0.4767,0.4767,0.162,0.0,0.838,1,0,0
+896,"The ball of smoke hung in the sky like a shrapnel burst, and as I watched, another rocket came up to it, trickling smoke in the bright sunlight.",0.6369,0.6369,0.182,0.041,0.777,1,0,0
+897,I saw the bright flash as it burst and another little cloud of smoke appeared.,0.4404,0.4404,0.182,0.0,0.818,1,0,0
+898,"They were playing the _riau-riau_ music, the pipes shrill and the drums pounding, and behind them came the men and boys dancing.",0.2023,0.2023,0.079,0.0,0.921,1,0,0
+899,"In the square a man, bent over, was playing on a reed-pipe, and a crowd of children were following him shouting, and pulling at his clothes.",0.2023,0.2023,0.076,0.0,0.924,1,0,0
+900,“My God!,0.3382,0.3382,0.705,0.0,0.295,1,0,0
+901,"The street was solid with dancers, all men.",0.1531,0.1531,0.186,0.0,0.814,1,0,0
+902,"They were a club of some sort, and all wore workmen’s blue smocks, and red handkerchiefs around their necks, and carried a great banner on two poles.",0.6249,0.6249,0.146,0.0,0.854,1,0,0
+903,Hurray for the Foreigners!” was painted on the banner.,0.6114,0.6114,0.333,0.0,0.667,1,0,0
+904,“Bring them here.” The fiesta was really started.,0.4767,0.4767,0.307,0.0,0.693,1,0,0
+905,The things that happened could only have happened during a fiesta.,0.4767,0.4767,0.256,0.0,0.744,1,0,0
+906,It seemed out of place to think of consequences during the fiesta.,0.4767,0.4767,0.22,0.0,0.78,1,0,0
+907,"All during the fiesta you had the feeling, even when it was quiet, that you had to shout any remark to make it heard.",0.5574,0.5574,0.173,0.0,0.827,1,0,0
+908,It was the same feeling about any action.,0.128,0.128,0.176,0.0,0.824,1,0,0
+909,It was a fiesta and it went on for seven days.,0.4767,0.4767,0.256,0.0,0.744,1,0,0
+910,"In the procession were all the dignitaries, civil and religious.",0.1531,0.1531,0.151,0.0,0.849,1,0,0
+911,We could not see them because the crowd was too great.,0.6249,0.6249,0.291,0.0,0.709,1,0,0
+912,"All we could see of the procession through the closely pressed people that crowded all the side streets and curbs were the great giants, cigar-store Indians, thirty feet high, Moors, a King and Queen, whirling and waltzing solemnly to the _riau-riau_.",0.7096,0.7096,0.134,0.0,0.866,1,0,0
+913,"They were all standing outside the chapel where San Fermin and the dignitaries had passed in, leaving a guard of soldiers, the giants, with the men who danced in them standing beside their resting frames, and the dwarfs moving with their whacking bladders through the crowd.",0.1531,0.1531,0.035,0.0,0.965,1,0,0
+914,"“I want a leather wine-bottle,” Bill said.",0.0772,0.0772,0.206,0.0,0.794,1,0,0
+915,Some one insisted on giving her a glass.,0.34,0.34,0.286,0.0,0.714,1,0,0
+916,Inside it smelled of fresh tanned leather and hot tar.,0.3182,0.3182,0.204,0.0,0.796,1,0,0
+917,"It doesn’t leak.” “I want another one, too.",0.0772,0.0772,0.157,0.0,0.843,1,0,0
+918,I want you to meet my friends.,0.5267,0.5267,0.524,0.0,0.476,1,0,0
+919,"“I don’t want to eat up your meal,” I said when some one handed me a fork.",0.0772,0.0772,0.085,0.0,0.915,1,0,0
+920,“I know he’s not dead.,0.5334,0.5334,0.463,0.0,0.537,1,0,0
+921,Yes.,0.4019,0.4019,1.0,0.0,0.0,1,0,0
+922,It tasted of licorice and warmed all the way.,0.2732,0.2732,0.208,0.0,0.792,1,0,0
+923,I could feel it warming in my stomach.,0.1531,0.1531,0.211,0.0,0.789,1,0,0
+924,"“You want to see him?” “Yes,” I said.",0.0772,0.0772,0.178,0.0,0.822,1,0,0
+925,Cohn wiped his eyes and grinned.,0.2732,0.2732,0.296,0.0,0.704,1,0,0
+926,“Do you want to eat?” “Yes.,0.0772,0.0772,0.206,0.0,0.794,1,0,0
+927,"Down the side streets that led to the square we saw the square solid with people, those in the centre all dancing.",0.1531,0.1531,0.071,0.0,0.929,1,0,0
+928,"It was the first meal of the prices being doubled for the fiesta, and there were several new courses.",0.4767,0.4767,0.147,0.0,0.853,1,0,0
+929,"I remember resolving that I would stay up all night to watch the bulls go through the streets at six o’clock in the morning, and being so sleepy that I went to bed around four o’clock.",0.3818,0.3818,0.075,0.0,0.925,1,0,0
+930,"The fiesta was going on outside in the night, but I was too sleepy for it to keep me awake.",0.2617,0.2617,0.102,0.0,0.898,1,0,0
+931,I had been sleeping heavily and I woke feeling I was too late.,0.128,0.128,0.143,0.0,0.857,1,0,0
+932,After they went out of sight a great roar came from the bull-ring.,0.6249,0.6249,0.272,0.0,0.728,1,0,0
+933,We were all there.” “Anybody get hurt?” “One of the bulls got into the crowd in the ring and tossed six or eight people.” “How did Brett like it?” “It was all so sudden there wasn’t any time for it to bother anybody.” “I wish I’d been up.” “We didn’t know where you were.,0.4871,0.4871,0.094,0.041,0.865,1,0,0
+934,"Mike thought Brett had best sit high up for her first time, and Cohn wanted to sit with them.",0.6369,0.6369,0.189,0.0,0.811,1,0,0
+935,“I’m not worried about how I’ll stand it.,0.2235,0.2235,0.212,0.0,0.788,1,0,0
+936,Brett smiled at us.,0.5423,0.5423,0.538,0.0,0.462,1,0,0
+937,"“He’s got this Jewish superiority so strong that he thinks the only emotion he’ll get out of the fight will be being bored.” “We’ll watch him with the glasses,” I said.",0.6176,0.6176,0.183,0.072,0.745,1,0,0
+938,"“Do you want to meet Pedro Romero?” “Fine,” said Bill.",0.0772,0.0772,0.126,0.0,0.874,1,0,0
+939,"“He’s in room number eight,” Montoya explained.",0.0772,0.0772,0.178,0.0,0.822,1,0,0
+940,The boy stood very straight and unsmiling in his bull-fighting clothes.,0.2944,0.2944,0.18,0.0,0.82,1,0,0
+941,"Pedro Romero nodded, seeming very far away and dignified when we shook hands.",0.4215,0.4215,0.205,0.09,0.705,1,0,0
+942,"Montoya said something about what great aficionados we were, and that we wanted to wish him luck.",0.8689,0.8689,0.412,0.0,0.588,1,0,0
+943,"“No,” he answered, and smiled.",0.5423,0.5423,0.467,0.0,0.533,1,0,0
+944,“Would you like me to interpret for you?,0.3612,0.3612,0.263,0.0,0.737,1,0,0
+945,Is there anything you would like to ask Pedro Romero?” We thanked him.,0.6597,0.6597,0.329,0.0,0.671,1,0,0
+946,What was there that you would like to ask?,0.3612,0.3612,0.238,0.0,0.762,1,0,0
+947,"He was standing, straight and handsome and altogether by himself, alone in the room with the hangers-on as we shut the door.",0.4767,0.4767,0.195,0.077,0.728,1,0,0
+948,"“He’s a fine boy, don’t you think so?” Montoya asked.",0.2023,0.2023,0.184,0.0,0.816,1,0,0
+949,"“He looks like a torero,” Montoya said.",0.3612,0.3612,0.333,0.0,0.667,1,0,0
+950,"“He has the type.” “He’s a fine boy.” “We’ll see how he is in the ring,” Montoya said.",0.2023,0.2023,0.101,0.0,0.899,1,0,0
+951,It was a good bull-fight.,0.4404,0.4404,0.492,0.0,0.508,1,0,0
+952,Bill and I were very excited about Pedro Romero.,0.4005,0.4005,0.278,0.0,0.722,1,0,0
+953,"Of the other two matadors, one was very fair and the other was passable.",0.3804,0.3804,0.166,0.0,0.834,1,0,0
+954,Brett did not look upset.,0.2924,0.2924,0.353,0.0,0.647,1,0,0
+955,"We had that disturbed emotional feeling that always comes after a bull-fight, and the feeling of elation that comes after a good bull-fight.",0.6597,0.6597,0.362,0.094,0.543,1,0,0
+956,The fiesta was going on.,0.4767,0.4767,0.437,0.0,0.563,1,0,0
+957,"The dancers were in a crowd, so you did not see the intricate play of the feet.",0.2396,0.2396,0.134,0.081,0.785,1,0,0
+958,"The waiter saved chairs for the others, and we each ordered an absinthe and watched the crowd in the square and the dancers.",0.4215,0.4215,0.113,0.0,0.887,1,0,0
+959,“They dance differently to all the different tunes.” “It’s swell dancing.” In front of us on a clear part of the street a company of boys were dancing.,0.3818,0.3818,0.094,0.0,0.906,1,0,0
+960,The steps were very intricate and their faces were intent and concentrated.,0.2247,0.2247,0.147,0.0,0.853,1,0,0
+961,“You saved us seats?,0.4215,0.4215,0.483,0.0,0.517,1,0,0
+962,Simply perfect.,0.5719,0.5719,0.787,0.0,0.213,1,0,0
+963,"I say, it is a spectacle!” “How about the horses?” “I couldn’t help looking at them.” “She couldn’t take her eyes off them,” Mike said.",0.4574,0.4574,0.12,0.0,0.88,1,0,0
+964,Cohn laughed.,0.4588,0.4588,0.75,0.0,0.25,1,0,0
+965,"I wish you’d forgive me that.” “It’s all right,” Bill said, “so long as you weren’t bored.” “He didn’t look bored,” Mike said.",0.5859,0.5859,0.194,0.0,0.806,1,0,0
+966,“I thought he was going to be sick.” “I never felt that bad.,0.431,0.431,0.192,0.0,0.808,1,0,0
+967,"He was positively green.” “Oh, shove it along, Michael.” “You mustn’t ever get bored at your first bull-fight, Robert,” Mike said.",0.3182,0.3182,0.139,0.086,0.776,1,0,0
+968,"She’s just a lovely, healthy wench.” “Are you a sadist, Brett?” I asked.",0.7579,0.7579,0.448,0.0,0.552,1,0,0
+969,"“Hope not.” “He said Brett was a sadist just because she has a good, healthy stomach.” “Won’t be healthy long.” Bill got Mike started on something else than Cohn.",0.8074,0.8074,0.257,0.0,0.743,1,0,0
+970,“Did you really like it?” Bill asked Cohn.,0.4201,0.4201,0.285,0.0,0.715,1,0,0
+971,"“No, I can’t say I liked it.",0.4215,0.4215,0.412,0.0,0.588,1,0,0
+972,"I think it’s a wonderful show.” “Gad, yes!",0.7712,0.7712,0.626,0.0,0.374,1,0,0
+973,"“I wish they didn’t have the horse part,” Cohn said.",0.4019,0.4019,0.231,0.0,0.769,1,0,0
+974,"“After a while you never notice anything disgusting.” “It is a bit strong just at the start,” Brett said.",0.5106,0.5106,0.171,0.0,0.829,1,0,0
+975,"“I want to sit down below, next time.” Brett drank from her glass of absinthe.",0.0772,0.0772,0.085,0.0,0.915,1,0,0
+976,“When we were up in his room I never saw a better-looking kid.” “How old do you suppose he is?” “Nineteen or twenty.” “Just imagine it.” The bull-fight on the second day was much better than on the first.,0.4404,0.4404,0.075,0.0,0.925,1,0,0
+977,She saw why she liked Romero’s cape-work and why she did not like the others.,0.1754,0.1754,0.156,0.118,0.726,1,0,0
+978,"Romero never made any contortions, always it was straight and pure and natural in line.",0.5267,0.5267,0.253,0.0,0.747,1,0,0
+979,"Romero’s bull-fighting gave real emotion, because he kept the absolute purity of line in his movements and always quietly and calmly let the horns pass him close each time.",0.3182,0.3182,0.076,0.0,0.924,1,0,0
+980,Brett saw how something that was beautiful done close to the bull was ridiculous if it were done a little way off.,0.34,0.34,0.154,0.098,0.748,1,0,0
+981,"The others can’t ever learn what he was born with.” “And God, what looks,” Brett said.",0.2732,0.2732,0.123,0.0,0.877,1,0,0
+982,"“I believe, you know, that she’s falling in love with this bull-fighter chap,” Mike said.",0.5574,0.5574,0.223,0.085,0.691,1,0,0
+983,"“I wouldn’t be surprised.” “Be a good chap, Jake.",0.4404,0.4404,0.293,0.0,0.707,1,0,0
+984,The next day Pedro Romero did not fight.,0.2924,0.2924,0.238,0.0,0.762,1,0,0
+985,But all day and all night the fiesta kept on.,0.631,0.631,0.316,0.0,0.684,1,0,0
+986,"The flags in the square hung wet from the white poles and the banners were wet and hung damp against the front of the houses, and in between the steady drizzle the rain came down and drove every one under the arcades and made pools of water in the square, and the streets wet and dark and deserted; yet the fiesta kept up without any pause.",0.4767,0.4767,0.046,0.0,0.954,1,0,0
+987,"“No bulls to-day.” “No,” I said, “nothing but rain.” “Where are your friends?” “Over at the Iruña.” Montoya smiled his embarrassed smile.",0.6956,0.6956,0.274,0.111,0.615,1,0,0
+988,“You think so?” “Absolutely.” Montoya was very pleased.,0.4927,0.4927,0.313,0.0,0.687,1,0,0
+989,“People take a boy like that.,0.3612,0.3612,0.385,0.0,0.615,1,0,0
+990,They don’t know what he’s worth.,0.2263,0.2263,0.275,0.0,0.725,1,0,0
+991,Any foreigner can flatter him.,0.1027,0.1027,0.259,0.0,0.741,1,0,0
+992,"They start this Grand Hotel business, and in one year they’re through.” “Like Algabeno,” I said.",0.5423,0.5423,0.2,0.0,0.8,1,0,0
+993,"“Yes, like Algabeno.” “They’re a fine lot,” I said.",0.5106,0.5106,0.462,0.0,0.538,1,0,0
+994,"They only want the young ones.” “Yes,” I said.",0.0772,0.0772,0.157,0.0,0.843,1,0,0
+995,"“The old ones get fat.” “Or crazy like Gallo.” “Well,” I said, “it’s easy.",0.4588,0.4588,0.303,0.135,0.562,1,0,0
+996,"All you have to do is not give him the message.” “He’s such a fine boy,” said Montoya.",0.2023,0.2023,0.101,0.0,0.899,1,0,0
+997,“For this Señor.” The bootblack knelt down beside the one at work and started on Mike’s free shoe that shone already in the electric light.,0.5106,0.5106,0.121,0.0,0.879,1,0,0
+998,"He stood up when I nodded, and asked me to come over and meet a friend.",0.4939,0.4939,0.198,0.0,0.802,1,0,0
+999,"I met the friend, a Madrid bull-fight critic, a little man with a drawn face.",0.2732,0.2732,0.224,0.147,0.629,1,0,0
+1000,"I told Romero how much I liked his work, and he was very pleased.",0.7178,0.7178,0.375,0.0,0.625,1,0,0
+1001,Romero laughed.,0.4588,0.4588,0.75,0.0,0.25,1,0,0
+1002,"He was very bashful about his English, but he was really very pleased with it, and as we went on talking he brought out words he was not sure of, and asked me about them.",0.4709,0.4709,0.117,0.09,0.793,1,0,0
+1003,The bull-fight critic joked him about the number of _Malagueño_ expressions he used.,0.128,0.128,0.229,0.134,0.637,1,0,0
+1004,“The second time I was better.,0.4404,0.4404,0.42,0.0,0.58,1,0,0
+1005,He was not at all embarrassed.,0.2755,0.2755,0.297,0.0,0.703,1,0,0
+1006,"“I like it very much that you like my work,” he said.",0.6124,0.6124,0.333,0.0,0.667,1,0,0
+1007,"To-morrow, if I get a good bull, I will try and show it to you.” When he said this he smiled, anxious that neither the bull-fight critic nor I would think he was boasting.",0.7363,0.7363,0.227,0.055,0.718,1,0,0
+1008,“I would like to be convinced.” “He doesn’t like my work much.” Romero turned to me.,0.6124,0.6124,0.263,0.0,0.737,1,0,0
+1009,"The critic explained that he liked it very much, but that so far it had been incomplete.",0.09,0.09,0.103,0.084,0.813,1,0,0
+1010,"“Wait till to-morrow, if a good one comes out.” “Have you seen the bulls for to-morrow?” the critic asked me.",0.2023,0.2023,0.132,0.095,0.773,1,0,0
+1011,He turned to me and smiled.,0.5423,0.5423,0.412,0.0,0.588,1,0,0
+1012,She had not stopped looking at Pedro Romero.,0.1695,0.1695,0.192,0.0,0.808,1,0,0
+1013,I asked them if they would like to have coffee with us.,0.3612,0.3612,0.2,0.0,0.8,1,0,0
+1014,He had very nice manners.,0.4754,0.4754,0.436,0.0,0.564,1,0,0
+1015,Romero looked up smiling.,0.4588,0.4588,0.5,0.0,0.5,1,0,0
+1016,"“This gentleman,” I said, “is a writer.” Romero was impressed.",0.4767,0.4767,0.307,0.0,0.693,1,0,0
+1017,"“He looks like Villalta,” Romero said, looking at Bill.",0.3612,0.3612,0.238,0.0,0.762,1,0,0
+1018,"“Rafael, doesn’t he look like Villalta?” “I can’t see it,” the critic said.",0.1027,0.1027,0.16,0.135,0.705,1,0,0
+1019,“He looks a lot like Villalta.,0.3612,0.3612,0.385,0.0,0.615,1,0,0
+1020,"“Yes.” I was sure he didn’t, so it was all right.",0.3182,0.3182,0.204,0.0,0.796,1,0,0
+1021,"Brett was talking French and he was talking Spanish and a little English, and laughing.",0.4472,0.4472,0.184,0.0,0.816,1,0,0
+1022,"“Tell him Brett wants to come into——” “Oh, pipe down, Mike, for Christ’s sake!” Romero looked up smiling.",0.5093,0.5093,0.162,0.0,0.838,1,0,0
+1023,"He started to smile at me, then he saw Pedro Romero with a big glass of cognac in his hand, sitting laughing between me and a woman with bare shoulders, at a table full of drunks.",0.836,0.836,0.229,0.0,0.771,1,0,0
+1024,"Romero took it very seriously, and we touched glasses and drank it down, I rushing it a little because Mike was trying to make it clear that that was not at all what he was going to drink to.",0.1548,0.1548,0.066,0.05,0.884,1,0,0
+1025,“My God!,0.3382,0.3382,0.705,0.0,0.295,1,0,0
+1026,"he’s a lovely boy,” Brett said.",0.5859,0.5859,0.487,0.0,0.513,1,0,0
+1027,“And how I would love to see him get into those clothes.,0.6369,0.6369,0.296,0.0,0.704,1,0,0
+1028,"Do you think you talk Spanish better than I do?” “Oh, shut up, Mike!",0.4926,0.4926,0.21,0.0,0.79,1,0,0
+1029,"Nobody interrupted you.” “No, I’d like to get this settled.” He turned away from me.",0.0772,0.0772,0.141,0.124,0.734,1,0,0
+1030,People who are out to have a good time?,0.4404,0.4404,0.293,0.0,0.707,1,0,0
+1031,Do you think you add to the party?,0.4019,0.4019,0.278,0.0,0.722,1,0,0
+1032,"I love that woman.” “Oh, don’t start that again.",0.6369,0.6369,0.375,0.0,0.625,1,0,0
+1033,"His face had the sallow, yellow look it got when he was insulted, but somehow he seemed to be enjoying it.",0.5346,0.5346,0.179,0.083,0.738,1,0,0
+1034,"The childish, drunken heroics of it.",0.296,0.296,0.354,0.229,0.417,1,0,0
+1035,"He stood waiting, his face sallow, his hands fairly low, proudly and firmly waiting for the assault, ready to do battle for his lady love.",0.4215,0.4215,0.272,0.225,0.503,1,0,0
+1036,Brett was sitting looking straight ahead at nothing.,0.2263,0.2263,0.213,0.0,0.787,1,0,0
+1037,"A balloon would start up jerkily, on a great bias, and be torn by the wind or blown against the houses of the square.",0.4019,0.4019,0.155,0.128,0.717,1,0,0
+1038,"We stood in the crowd and watched Don Manuel Orquito, the fireworks king, standing on a little platform, carefully starting the balloons with sticks, standing above the heads of the crowd to launch the balloons off into the wind.",0.0571,0.0571,0.032,0.0,0.968,1,0,0
+1039,"“I say, I wish one would go up,” Brett said.",0.4019,0.4019,0.252,0.0,0.748,1,0,0
+1040,There was a great noise going on.,0.6249,0.6249,0.451,0.0,0.549,1,0,0
+1041,"We had acquired, at some time, a friend of Bill’s from Biarritz.",0.4939,0.4939,0.242,0.0,0.758,1,0,0
+1042,She was staying with another girl at the Grand Hotel.,0.4588,0.4588,0.25,0.0,0.75,1,0,0
+1043,"“I don’t want to sit here on a night like this.” “Let’s go and look at the English,” Mike said.",0.4215,0.4215,0.183,0.0,0.817,1,0,0
+1044,"“I love to look at the English.” “They’re awful,” Bill said.",0.6369,0.6369,0.296,0.0,0.704,1,0,0
+1045,“You’re an extraordinarily beautiful girl.” Mike turned to Bill’s friend.,0.7964,0.7964,0.47,0.0,0.53,1,0,0
+1046,"“When did you come here?” “Come off it, Michael.” “I say, she _is_ a lovely girl.",0.5859,0.5859,0.213,0.0,0.787,1,0,0
+1047,You’re a lovely thing.,0.5859,0.5859,0.655,0.0,0.345,1,0,0
+1048,I hope you’re not English?,0.4404,0.4404,0.492,0.0,0.508,1,0,0
+1049,"Can’t you see Jake and I want to talk?” “I didn’t,” Cohn said.",0.0772,0.0772,0.106,0.0,0.894,1,0,0
+1050,“My God!,0.3382,0.3382,0.705,0.0,0.295,1,0,0
+1051,He had a chance to behave so well.” “He’s probably waiting just outside the door now.” “Yes.,0.25,0.25,0.118,0.0,0.882,1,0,0
+1052,"Michael’s been lovely, too.” “It’s been damned hard on Mike.” “Yes.",0.2023,0.2023,0.241,0.253,0.506,1,0,0
+1053,"Hasn’t he been pretty?” “Well,” I said, “it’s been damned hard on Mike, having Cohn around and seeing him with you.” “Don’t I know it, darling?",0.2869,0.2869,0.13,0.15,0.72,1,0,0
+1054,“He can’t be away from you.” “Poor devil!” “I’m not sorry for him.,0.1316,0.1316,0.112,0.0,0.888,1,0,0
+1055,"“I feel like hell,” Brett said.",0.3612,0.3612,0.333,0.0,0.667,1,0,0
+1056,Up on the top of the mountain we saw the lights of the fort.,0.2023,0.2023,0.122,0.0,0.878,1,0,0
+1057,Brett stared straight ahead.,0.2263,0.2263,0.388,0.0,0.612,1,0,0
+1058,"“Do you still love me, Jake?” “Yes,” I said.",0.6369,0.6369,0.375,0.0,0.625,1,0,0
+1059,"I’m in love with him, I think.” “I wouldn’t be if I were you.” “I can’t help it.",0.7845,0.7845,0.33,0.0,0.67,1,0,0
+1060,It’s tearing me all up inside.” “Don’t do it.” “I can’t help it.,0.4019,0.4019,0.184,0.0,0.816,1,0,0
+1061,Feel that?” Her hand was trembling.,0.1779,0.1779,0.33,0.258,0.412,1,0,0
+1062,“I’m like that all through.” “You oughtn’t to do it.” “I can’t help it.,0.6369,0.6369,0.302,0.0,0.698,1,0,0
+1063,I’ve got to do something I really want to do.,0.1513,0.1513,0.166,0.0,0.834,1,0,0
+1064,"What do you think it’s meant to have that damned Jew about, and Mike the way he’s acted?” “Sure.” “I can’t just stay tight all the time.” “No.” “Oh, darling, please stay by me.",0.5423,0.5423,0.154,0.065,0.781,1,0,0
+1065,Please stay by me and see me through this.” “Sure.” “I don’t say it’s right.,0.3182,0.3182,0.141,0.0,0.859,1,0,0
+1066,"God knows, I’ve never felt such a bitch.” “What do you want me to do?” “Come on,” Brett said.",0.34,0.34,0.175,0.0,0.825,1,0,0
+1067,Romero smiled and bowed.,0.5423,0.5423,0.538,0.0,0.462,1,0,0
+1068,"He’ll come over.” “I can’t look at him.” “He’s nice to look at,” I said.",0.4215,0.4215,0.177,0.0,0.823,1,0,0
+1069,Pedro Romero smiled.,0.5423,0.5423,0.636,0.0,0.364,1,0,0
+1070,He had very nice manners.,0.4754,0.4754,0.436,0.0,0.564,1,0,0
+1071,It went well with his face.,0.2732,0.2732,0.296,0.0,0.704,1,0,0
+1072,“You like cigars?” I asked.,0.3612,0.3612,0.455,0.0,0.545,1,0,0
+1073,"“Oh, yes.",0.4019,0.4019,0.73,0.0,0.27,1,0,0
+1074,I always smoke cigars.” It was part of his system of authority.,0.0772,0.0772,0.115,0.0,0.885,1,0,0
+1075,It was clear and smooth and very brown.,0.3818,0.3818,0.271,0.0,0.729,1,0,0
+1076,He must have felt it when Brett gave him her hand.,0.4939,0.4939,0.242,0.0,0.758,1,0,0
+1077,He was being very careful.,0.2247,0.2247,0.321,0.0,0.679,1,0,0
+1078,"Here,” he showed his hand.",0.4939,0.4939,0.444,0.0,0.556,1,0,0
+1079,Brett reached out and spread the fingers apart.,0.1027,0.1027,0.167,0.0,0.833,1,0,0
+1080,I like it.” He spread his hand flat on the table.,0.6908,0.6908,0.416,0.0,0.584,1,0,0
+1081,"“Tell me I live for always, and be a millionaire.” He was still very polite, but he was surer of himself.",0.4215,0.4215,0.135,0.0,0.865,1,0,0
+1082,"“Look,” he said, “do you see any bulls in my hand?” He laughed.",0.4588,0.4588,0.2,0.0,0.8,1,0,0
+1083,His hand was very fine and the wrist was small.,0.6478,0.6478,0.398,0.0,0.602,1,0,0
+1084,She was not at all nervous now.,0.2057,0.2057,0.232,0.0,0.768,1,0,0
+1085,She looked lovely.,0.5859,0.5859,0.655,0.0,0.345,1,0,0
+1086,"“Good,” Romero laughed.",0.4588,0.4588,0.6,0.0,0.4,1,0,0
+1087,"“Tell me some more.” “It’s a good hand,” Brett said.",0.4404,0.4404,0.266,0.0,0.734,1,0,0
+1088,The bulls are my best friends.” I translated to Brett.,0.6369,0.6369,0.344,0.0,0.656,1,0,0
+1089,"“Always,” he said in English, and laughed.",0.4588,0.4588,0.333,0.0,0.667,1,0,0
+1090,"“Pretty well, sometimes.",0.2732,0.2732,0.512,0.0,0.488,1,0,0
+1091,Bull-fighters are not like that.” “What are bull-fighters like?” He laughed and tipped his hat down over his eyes and changed the angle of his cigar and the expression of his face.,0.224,0.224,0.085,0.06,0.854,1,0,0
+1092,"He smiled, his face natural again.",0.7184,0.7184,0.6,0.0,0.4,1,0,0
+1093,“No?” “No.” “All right.” He laughed again.,0.4588,0.4588,0.333,0.0,0.667,1,0,0
+1094,"“I would like a hat like that,” Brett said.",0.6124,0.6124,0.455,0.0,0.545,1,0,0
+1095,“I must go and find our friends and bring them here.” He looked at me.,0.4767,0.4767,0.181,0.0,0.819,1,0,0
+1096,"“There’s some people in there that don’t like me.” “I’ve kept them out of four fights,” Edna said.",0.3612,0.3612,0.128,0.0,0.872,1,0,0
+1097,“You’ve got to help me.” Bill’s face was red.,0.4019,0.4019,0.252,0.0,0.748,1,0,0
+1098,“I don’t care.,0.4939,0.4939,0.615,0.0,0.385,1,0,0
+1099,Jake doesn’t care.,0.4939,0.4939,0.615,0.0,0.385,1,0,0
+1100,"You don’t care, do you, Bill?” Bill put his arm around Mike’s shoulder.",0.4939,0.4939,0.211,0.0,0.789,1,0,0
+1101,"“I’m going to clean them out.” “Bill,” Edna looked at me.",0.4019,0.4019,0.213,0.0,0.787,1,0,0
+1102,"I knew that was what it was.” “They can’t say things like that about Mike,” Bill said.",0.3612,0.3612,0.143,0.0,0.857,1,0,0
+1103,"“They’re a bunch of Edna’s friends from Biarritz,” Bill said.",0.4767,0.4767,0.279,0.0,0.721,1,0,0
+1104,Edna started to laugh and could not stop.,0.6692,0.6692,0.478,0.0,0.522,1,0,0
+1105,"“He must be a boxer.” “He is.” “I wish Bill had been here,” Edna said.",0.4019,0.4019,0.172,0.0,0.828,1,0,0
+1106,"“I’d like to have seen Bill knocked down, too.",0.3612,0.3612,0.238,0.0,0.762,1,0,0
+1107,"I’d like to see Mr. Robert Cohn in jail.” “No,” I said.",0.3612,0.3612,0.2,0.0,0.8,1,0,0
+1108,“I’m not one of these chaps likes being knocked about.,0.4215,0.4215,0.237,0.0,0.763,1,0,0
+1109,It all seemed like some bad play.,0.1027,0.1027,0.395,0.282,0.323,1,0,0
+1110,"“We’d better walk with him.” “I’m all right,” I said.",0.4404,0.4404,0.266,0.0,0.734,1,0,0
+1111,"Then I went on, and my feet seemed to be a long way off, and everything seemed to come from a long way off, and I could hear my feet walking a great distance away.",0.6249,0.6249,0.124,0.0,0.876,1,0,0
+1112,It was like that crossing the square.,0.3612,0.3612,0.294,0.0,0.706,1,0,0
+1113,It was like that going up the stairs in the hotel.,0.3612,0.3612,0.2,0.0,0.8,1,0,0
+1114,"Going up the stairs took a long time, and I had the feeling that I was carrying my suitcase.",0.128,0.128,0.091,0.0,0.909,1,0,0
+1115,It was just like this that I had come home.,0.3612,0.3612,0.238,0.0,0.762,1,0,0
+1116,"He had on a white polo shirt, the kind he’d worn at Princeton.",0.296,0.296,0.218,0.141,0.641,1,0,0
+1117,"Please forgive me.” “Forgive you, hell.” “Please forgive me, Jake.” I did not say anything.",0.6705,0.6705,0.371,0.0,0.629,1,0,0
+1118,Please don’t remember it.,0.3182,0.3182,0.434,0.0,0.566,1,0,0
+1119,His voice was funny.,0.4404,0.4404,0.492,0.0,0.508,1,0,0
+1120,When I met her down here Brett treated me as though I were a perfect stranger.,0.5719,0.5719,0.236,0.0,0.764,1,0,0
+1121,"“Well,” I said, “I’m going to take a bath.” “You were the only friend I had, and I loved Brett so.” “Well,” I said, “so long.” “I guess it isn’t any use,” he said.",0.7964,0.7964,0.208,0.0,0.792,1,0,0
+1122,"Please say you forgive me, Jake.” “Sure,” I said.",0.5267,0.5267,0.423,0.0,0.577,1,0,0
+1123,In the dark I could not see his face very well.,0.3384,0.3384,0.21,0.0,0.79,1,0,0
+1124,I remembered I had promised to take Bill’s friend Edna to see the bulls go through the street and into the ring.,0.6908,0.6908,0.241,0.0,0.759,1,0,0
+1125,The waiter told me that my friends had been there and gone.,0.4767,0.4767,0.22,0.0,0.78,1,0,0
+1126,That was why I was to be sure to take her.,0.3182,0.3182,0.204,0.0,0.796,1,0,0
+1127,"Everything looked sharp and clear, and the town smelt of the early morning.",0.3818,0.3818,0.178,0.0,0.822,1,0,0
+1128,"There was a crowd all along the fence that led to the ring, and the outside balconies and the top of the bull-ring were solid with people.",0.34,0.34,0.124,0.0,0.876,1,0,0
+1129,"There was a great shout from the crowd, and putting my head through between the boards I saw the bulls just coming out of the street into the long running pen.",0.6249,0.6249,0.128,0.0,0.872,1,0,0
+1130,They were going fast and gaining on the crowd.,0.4215,0.4215,0.259,0.0,0.741,1,0,0
+1131,All for fun.,0.5106,0.5106,0.623,0.0,0.377,1,0,0
+1132,Just for fun.,0.5106,0.5106,0.623,0.0,0.377,1,0,0
+1133,All for fun.,0.5106,0.5106,0.623,0.0,0.377,1,0,0
+1134,"Fun, you understand.” “You’re not an aficionado?” “Me?",0.5661,0.5661,0.343,0.0,0.657,1,0,0
+1135,Brute animals.” He stood up and put his hand on the small of his back.,0.4939,0.4939,0.186,0.0,0.814,1,0,0
+1136,All for morning fun.,0.5106,0.5106,0.524,0.0,0.476,1,0,0
+1137,He had continued to come to the fiesta each year after he was married.,0.4767,0.4767,0.193,0.0,0.807,1,0,0
+1138,"His ear was cut by popular acclamation and given to Pedro Romero, who, in turn, gave it to Brett, who wrapped it in a handkerchief belonging to myself, and left both ear and handkerchief, along with a number of Muratti cigarette-stubs, shoved far back in the drawer of the bed-table that stood beside her bed in the Hotel Montoya, in Pamplona.",0.25,0.25,0.066,0.034,0.9,1,0,0
+1139,They went up-stairs laughing.,0.4939,0.4939,0.516,0.0,0.484,1,0,0
+1140,The window was open onto the balcony and the sunlight was bright in the room.,0.4404,0.4404,0.172,0.0,0.828,1,0,0
+1141,He was so sure that Brett loved him.,0.784,0.784,0.535,0.0,0.465,1,0,0
+1142,"He was going to stay, and true love would conquer all.",0.7906,0.7906,0.438,0.0,0.562,1,0,0
+1143,“My God!,0.3382,0.3382,0.705,0.0,0.295,1,0,0
+1144,“What did you do with the lovely Edna?” “We took her home just now.,0.5859,0.5859,0.226,0.0,0.774,1,0,0
+1145,She’s gone to bed.” “How did she like it?” “Fine.,0.3612,0.3612,0.217,0.0,0.783,1,0,0
+1146,"We told her it was just like that every morning.” “She was impressed,” Mike said.",0.3612,0.3612,0.152,0.0,0.848,1,0,0
+1147,"“She likes action.” “I said it wouldn’t be fair to my creditors,” Mike said.",0.6249,0.6249,0.298,0.0,0.702,1,0,0
+1148,Bill laughed.,0.4588,0.4588,0.75,0.0,0.25,1,0,0
+1149,“Here’s the beautiful lady with the beer.” The chambermaid put the tray with the beer-bottles and glasses down on the table.,0.5994,0.5994,0.163,0.0,0.837,1,0,0
+1150,"Wanted to make an honest woman of her, I imagine.",0.5106,0.5106,0.292,0.0,0.708,1,0,0
+1151,"Well, they weren’t having any of it.",0.2732,0.2732,0.259,0.0,0.741,1,0,0
+1152,The bull-fighter fellow was rather good.,0.4404,0.4404,0.367,0.0,0.633,1,0,0
+1153,He was waiting to get strength enough to get up and hit Cohn again.,0.4939,0.4939,0.198,0.0,0.802,1,0,0
+1154,All for forgiveness.,0.2732,0.2732,0.512,0.0,0.488,1,0,0
+1155,“You know I don’t think Cohn will ever want to knock people about again.” “When did you see Brett?” “This morning.,0.0772,0.0772,0.064,0.0,0.936,1,0,0
+1156,But she loves looking after people.,0.7227,0.7227,0.502,0.0,0.498,1,0,0
+1157,"“You know,” Mike went on, “Brett was rather good.",0.4404,0.4404,0.266,0.0,0.734,1,0,0
+1158,She’s always rather good.,0.4404,0.4404,0.492,0.0,0.508,1,0,0
+1159,“That was rather good.,0.4404,0.4404,0.492,0.0,0.508,1,0,0
+1160,She hasn’t had an absolutely happy life.,0.6115,0.6115,0.4,0.0,0.6,1,0,0
+1161,She enjoys things so.” He stood up.,0.5106,0.5106,0.355,0.0,0.645,1,0,0
+1162,His hand was shaky.,0.3182,0.3182,0.451,0.268,0.282,1,0,0
+1163,Try and get a little sleep.” He smiled.,0.5,0.5,0.35,0.0,0.65,1,0,0
+1164,“We go too long without sleep in these fiestas.,0.3612,0.3612,0.238,0.0,0.762,1,0,0
+1165,"They sat in the big, white car and looked through their glasses at the fiesta.",0.4767,0.4767,0.181,0.0,0.819,1,0,0
+1166,It was the last day of the fiesta.,0.4767,0.4767,0.307,0.0,0.693,1,0,0
+1167,"The fiesta was solid and unbroken, but the motor-cars and tourist-cars made little islands of onlookers.",0.3291,0.3291,0.193,0.0,0.807,1,0,0
+1168,The fiesta absorbed even the Biarritz English so that you did not see them unless you passed close to a table.,0.4767,0.4767,0.14,0.0,0.86,1,0,0
+1169,"I looked and saw her coming through the crowd in the square, walking, her head up, as though the fiesta were being staged in her honor, and she found it pleasant and amusing.",0.9042,0.9042,0.303,0.0,0.697,1,0,0
+1170,Brett started to lift the glass mug and her hand shook.,0.4215,0.4215,0.235,0.103,0.662,1,0,0
+1171,"She saw it and smiled, and leaned forward and took a long sip.",0.5423,0.5423,0.241,0.0,0.759,1,0,0
+1172,"“A beautiful, bloody bull-fighter.” “Would you mind walking over with me?",0.25,0.25,0.247,0.184,0.57,1,0,0
+1173,"I want to talk to you, Jake.” “Tell him all about your bull-fighter,” Mike said.",0.0772,0.0772,0.091,0.0,0.909,1,0,0
+1174,She was happy.,0.5719,0.5719,0.649,0.0,0.351,1,0,0
+1175,The sun was out and the day was bright.,0.4404,0.4404,0.266,0.0,0.734,1,0,0
+1176,“I don’t want to go up yet.,0.0772,0.0772,0.178,0.0,0.822,1,0,0
+1177,"I fancy he’s sleeping.” We walked along past the theatre and out of the square and along through the barracks of the fair, moving with the crowd between the lines of booths.",0.3182,0.3182,0.071,0.0,0.929,1,0,0
+1178,“I don’t want staring at just now.” We stood in the sunlight.,0.0772,0.0772,0.106,0.0,0.894,1,0,0
+1179,It was hot and good after the rain and the clouds from the sea.,0.4404,0.4404,0.182,0.0,0.818,1,0,0
+1180,"“I hope the wind goes down,” Brett said.",0.4404,0.4404,0.293,0.0,0.707,1,0,0
+1181,I’d rather like to pray a little for him or something.” We went in through the heavy leather door that moved very lightly.,0.5859,0.5859,0.194,0.0,0.806,1,0,0
+1182,Many people were praying.,0.3612,0.3612,0.455,0.0,0.545,1,0,0
+1183,"After a little I felt Brett stiffen beside me, and saw she was looking straight ahead.",0.2263,0.2263,0.128,0.0,0.872,1,0,0
+1184,The praying had not been much of a success.,0.7351,0.7351,0.508,0.0,0.492,1,0,0
+1185,"“You know,” Brett said, “I’m not worried about him at all.",0.2235,0.2235,0.159,0.0,0.841,1,0,0
+1186,"I just feel happy about him.” “Good.” “I wish the wind would drop, though.” “It’s liable to go down by five o’clock.” “Let’s hope.” “You might pray,” I laughed.",0.8074,0.8074,0.272,0.061,0.667,1,0,0
+1187,“Never does me any good.,0.4404,0.4404,0.42,0.0,0.58,1,0,0
+1188,"You don’t look very religious, Jake.” “I’m pretty religious.” “Oh, rot,” said Brett.",0.4939,0.4939,0.211,0.0,0.789,1,0,0
+1189,He smiled his dirty little pink-and-white smile.,0.4256,0.4256,0.453,0.23,0.317,1,0,0
+1190,She went straight down the hall and into Romero’s room.,0.2263,0.2263,0.174,0.0,0.826,1,0,0
+1191,Inside the room was in great disorder.,0.34,0.34,0.347,0.229,0.424,1,0,0
+1192,I’ve want ed a lit tle sleep for a long time.” “Let me cover you over.” “No.,0.0772,0.0772,0.085,0.0,0.915,1,0,0
+1193,"“Damned good thing, what?” “Yes.",0.4404,0.4404,0.42,0.0,0.58,1,0,0
+1194,The food was good and so was the wine.,0.4404,0.4404,0.266,0.0,0.734,1,0,0
+1195,Afterward we went to the café and watched the fiesta come to the boiling-point.,0.4767,0.4767,0.193,0.0,0.807,1,0,0
+1196,When the fiesta boiled over and toward the bull-ring we went with the crowd.,0.4767,0.4767,0.193,0.0,0.807,1,0,0
+1197,There was not an empty seat except in the President’s box.,0.1511,0.1511,0.137,0.0,0.863,1,0,0
+1198,"“Here, would you like to look?” I looked through the glasses and saw the three matadors.",0.3612,0.3612,0.152,0.0,0.848,1,0,0
+1199,He was looking straight ahead.,0.2263,0.2263,0.322,0.0,0.678,1,0,0
+1200,"Marcial was smoking a cigarette guardedly, holding it in his hand.",0.4939,0.4939,0.262,0.0,0.738,1,0,0
+1201,"The President came in; there was handclapping above us in the grand stand, and I handed the glasses to Brett.",0.4588,0.4588,0.143,0.0,0.857,1,0,0
+1202,There was applause.,0.4215,0.4215,0.583,0.0,0.417,1,0,0
+1203,"Marcial straightened up and dropped his cigarette, and, looking straight ahead, their heads back, their free arms swinging, the three matadors walked out.",0.6369,0.6369,0.198,0.0,0.802,1,0,0
+1204,"Behind them came all the procession, opening out, all striding in step, all the capes furled, everybody with free arms swinging, and behind rode the picadors, their pics rising like lances.",0.7003,0.7003,0.167,0.0,0.833,1,0,0
+1205,"“He doesn’t want you to spread it,” he said.",0.0772,0.0772,0.14,0.0,0.86,1,0,0
+1206,Belmonte had sent his formal cape over to some friends.,0.4767,0.4767,0.256,0.0,0.744,1,0,0
+1207,"He looked across at them and smiled, his wolf smile that was only with the mouth.",0.7184,0.7184,0.3,0.0,0.7,1,0,0
+1208,Belmonte was very good.,0.4927,0.4927,0.516,0.0,0.484,1,0,0
+1209,"But because he got thirty thousand pesetas and people had stayed in line all night to buy tickets to see him, the crowd demanded that he should be more than very good.",0.5163,0.5163,0.127,0.063,0.81,1,0,0
+1210,Belmonte’s great attraction is working close to the bull.,0.7964,0.7964,0.504,0.0,0.496,1,0,0
+1211,As long as a bull-fighter stays in his own terrain he is comparatively safe.,0.4404,0.4404,0.195,0.0,0.805,1,0,0
+1212,Each time he enters into the terrain of the bull he is in great danger.,0.1779,0.1779,0.2,0.166,0.634,1,0,0
+1213,"Belmonte, in his best days, worked always in the terrain of the bull.",0.6369,0.6369,0.259,0.0,0.741,1,0,0
+1214,"Fifteen years ago they said if you wanted to see Belmonte you should go quickly, while he was still alive.",0.3818,0.3818,0.12,0.0,0.88,1,0,0
+1215,"He had meant to have a great afternoon, and instead it was an afternoon of sneers, shouted insults, and finally a volley of cushions and pieces of bread and vegetables, thrown down at him in the plaza where he had had his greatest triumphs.",0.8591,0.8591,0.217,0.054,0.729,1,0,0
+1216,From the moment he left the barrera and went toward the bull they applauded him.,0.3612,0.3612,0.152,0.0,0.848,1,0,0
+1217,"He had come out of retirement to compete with Marcial, knowing it was a competition gained in advance.",0.3818,0.3818,0.14,0.0,0.86,1,0,0
+1218,"Romero did always, smoothly, calmly, and beautifully, what he, Belmonte, could only bring himself to do now sometimes.",0.7184,0.7184,0.273,0.0,0.727,1,0,0
+1219,He no longer had his greatest moments in the bull-ring.,0.4588,0.4588,0.292,0.153,0.556,1,0,0
+1220,He was not sure that there were any great moments.,0.4833,0.4833,0.292,0.14,0.569,1,0,0
+1221,"He had flashes of the old greatness with his bulls, but they were not of value because he had discounted them in advance when he had picked the bulls out for their safety, getting out of a motor and leaning on a fence, looking over at the herd on the ranch of his friend the bull-breeder.",0.7748,0.7748,0.15,0.041,0.808,1,0,0
+1222,"He loved bull-fighting, and I think he loved the bulls, and I think he loved Brett.",0.9136,0.9136,0.515,0.0,0.485,1,0,0
+1223,"He made it stronger that way, and did it for himself, too, as well as for her.",0.5719,0.5719,0.239,0.0,0.761,1,0,0
+1224,"Because he did not look up to ask if it pleased he did it all for himself inside, and it strengthened him, and yet he did it for her, too.",0.6908,0.6908,0.169,0.0,0.831,1,0,0
+1225,He gained by it all through the afternoon.,0.3818,0.3818,0.271,0.0,0.729,1,0,0
+1226,"The picador, his hat down over his eyes, the shaft of his pic angling sharply toward the bull, kicked in the spurs and held them and with the reins in his left hand walked the horse forward toward the bull.",0.4939,0.4939,0.076,0.0,0.924,1,0,0
+1227,Romero smiled.,0.5423,0.5423,0.778,0.0,0.222,1,0,0
+1228,"He made four veronicas like that, and finished with a half-veronica that turned his back on the bull and came away toward the applause, his hand on his hip, his cape on his arm, and the bull watching his back going away.",0.8176,0.8176,0.183,0.0,0.817,1,0,0
+1229,In his own bulls he was perfect.,0.5719,0.5719,0.381,0.0,0.619,1,0,0
+1230,It was only perfect bull-fighting.,0.5719,0.5719,0.481,0.0,0.519,1,0,0
+1231,They made a great row.,0.6249,0.6249,0.577,0.0,0.423,1,0,0
+1232,They don’t want to lose their money.” “It’s hardly fair to Romero.” “Watch how he handles a bull that can’t see the color.” “It’s the sort of thing I don’t like to see.” It was not nice to watch if you cared anything about the person who was doing it.,0.3767,0.3767,0.155,0.09,0.755,1,0,0
+1233,"With the bull who could not see the colors of the capes, or the scarlet flannel of the muleta, Romero had to make the bull consent with his body.",0.2263,0.2263,0.064,0.0,0.936,1,0,0
+1234,“The bull’s still strong.,0.5106,0.5106,0.524,0.0,0.476,1,0,0
+1235,"Romero’s left hand dropped the muleta over the bull’s muzzle to blind him, his left shoulder went forward between the horns as the sword went in, and for just an instant he and the bull were one, Romero way out over the bull, the right arm extended high up to where the hilt of the sword had gone in between the bull’s shoulders.",0.128,0.128,0.048,0.04,0.912,1,0,0
+1236,"There was a little jolt as Romero came clear, and then he was standing, one hand up, facing the bull, his shirt ripped out from under his sleeve, the white blowing in the wind, and the bull, the red sword hilt tight between his shoulders, his head going down and his legs settling.",0.7003,0.7003,0.104,0.0,0.896,1,0,0
+1237,"His hand still up, he spoke to the bull.",0.4939,0.4939,0.286,0.0,0.714,1,0,0
+1238,"They handed the sword to Romero, and carrying it blade down, the muleta in his other hand, he walked over to in front of the President’s box, bowed, straightened, and came over to the barrera and handed over the sword and muleta.",0.4939,0.4939,0.072,0.0,0.928,1,0,0
+1239,They were still applauding him when Romero’s last bull came in.,0.4767,0.4767,0.237,0.0,0.763,1,0,0
+1240,Each thing that he did with this bull wiped that out a little cleaner.,0.1045,0.1045,0.105,0.0,0.895,1,0,0
+1241,"It was a good bull, a big bull, and with horns, and it turned and recharged easily and surely.",0.802,0.802,0.369,0.0,0.631,1,0,0
+1242,It was like a course in bull-fighting.,0.3612,0.3612,0.333,0.0,0.667,1,0,0
+1243,"Then without taking a step forward, he became one with the bull, the sword was in high between the shoulders, the bull had followed the low-swung flannel, that disappeared as Romero lurched clear to the left, and it was over.",0.1779,0.1779,0.063,0.046,0.892,1,0,0
+1244,"Romero’s brother, holding the bull’s horn in one hand, the knife in the other, looked up at the President’s box.",0.4939,0.4939,0.144,0.0,0.856,1,0,0
+1245,He nodded his head and smiled.,0.5423,0.5423,0.412,0.0,0.588,1,0,0
+1246,“You liked it?” Romero called.,0.4215,0.4215,0.412,0.0,0.588,1,0,0
+1247,They looked at each other and smiled.,0.5423,0.5423,0.368,0.0,0.632,1,0,0
+1248,Brett had the ear in her hand.,0.4939,0.4939,0.348,0.0,0.652,1,0,0
+1249,"“Don’t get bloody,” Romero said, and grinned.",0.2732,0.2732,0.259,0.0,0.741,1,0,0
+1250,He had his hand on somebody’s shoulder.,0.4939,0.4939,0.348,0.0,0.652,1,0,0
+1251,“I want an absinthe.” It was the last day of the fiesta.,0.5267,0.5267,0.306,0.0,0.694,1,0,0
+1252,Outside the café there was a great crowd.,0.6249,0.6249,0.406,0.0,0.594,1,0,0
+1253,“I don’t know.” We watched the beginning of the evening of the last night of the fiesta.,0.4767,0.4767,0.162,0.0,0.838,1,0,0
+1254,The absinthe made everything seem better.,0.4404,0.4404,0.367,0.0,0.633,1,0,0
+1255,"I drank it without sugar in the dripping glass, and it was pleasantly bitter.",0.0772,0.0772,0.183,0.166,0.651,1,0,0
+1256,"It’s like a wonderful nightmare.” “Sure,” I said.",0.7351,0.7351,0.608,0.0,0.392,1,0,0
+1257,"Another absinthe for this señor.” “I feel like hell,” I said.",0.3612,0.3612,0.217,0.0,0.783,1,0,0
+1258,The fiesta was going on.,0.4767,0.4767,0.437,0.0,0.563,1,0,0
+1259,“How do you feel?” “I feel like hell.” “Have another?” “It won’t do any good.” “Try it.,0.4329,0.4329,0.152,0.0,0.848,1,0,0
+1260,Outside in the square the fiesta was going on.,0.4767,0.4767,0.279,0.0,0.721,1,0,0
+1261,"Better let him alone.” “He’s blind as a tick,” Mike said.",0.0516,0.0516,0.213,0.199,0.588,1,0,0
+1262,"It was just very clear and bright, and inclined to blur at the edges.",0.7233,0.7233,0.335,0.0,0.665,1,0,0
+1263,The fiesta was finished.,0.4767,0.4767,0.508,0.0,0.492,1,0,0
+1264,The cafés were just opening and the waiters were carrying out the comfortable white wicker chairs and arranging them around the marble-topped tables in the shade of the arcade.,0.5106,0.5106,0.105,0.0,0.895,1,0,0
+1265,I sat in one of the wicker chairs and leaned back comfortably.,0.4215,0.4215,0.219,0.0,0.781,1,0,0
+1266,The white-paper announcements of the unloading of the bulls and the big schedules of special trains were still up on the pillars of the arcade.,0.4019,0.4019,0.101,0.0,0.899,1,0,0
+1267,The fiesta was over.,0.4767,0.4767,0.508,0.0,0.492,1,0,0
+1268,"We better get a car, I think.",0.4404,0.4404,0.42,0.0,0.58,1,0,0
+1269,I think I’ll go to San Sebastian.” “I want to get back.” “What’s Mike going to do?” “He’s going to Saint Jean de Luz.” “Let’s get a car and all go as far as Bayonne.,0.0772,0.0772,0.039,0.0,0.961,1,0,0
+1270,The chauffeur piled and strapped the bags on top of the car and put them in beside him in the front seat and we got in.,0.2023,0.2023,0.067,0.0,0.933,1,0,0
+1271,Each time he gave the bartender a good tip.,0.4404,0.4404,0.293,0.0,0.707,1,0,0
+1272,In a room off the bar there was a good jazz band playing.,0.5719,0.5719,0.343,0.0,0.657,1,0,0
+1273,It was a pleasant bar.,0.5106,0.5106,0.524,0.0,0.476,1,0,0
+1274,Mike won the first roll with four jacks.,0.5719,0.5719,0.346,0.0,0.654,1,0,0
+1275,Bill won the second.,0.5719,0.5719,0.552,0.0,0.448,1,0,0
+1276,"Damned lucky to have it, too.” “I’ll cash you a check,” Bill said.",0.0516,0.0516,0.182,0.169,0.649,1,0,0
+1277,I can live on tick at this pub in Saint Jean.” “What do you want to do about the car?” Bill asked me.,0.0772,0.0772,0.058,0.0,0.942,1,0,0
+1278,“Do you want to keep it on?” “It doesn’t make any difference.,0.0772,0.0772,0.106,0.0,0.894,1,0,0
+1279,"She gets five hundred quid a year and pays three hundred and fifty of it in interest to Jews.” “I suppose they get it at the source,” said Bill.",0.4588,0.4588,0.1,0.0,0.9,1,0,0
+1280,"She gave it all to me when she left.” “Well,” Bill said, “we might as well have another drink.” “Damned good idea,” Mike said.",0.6124,0.6124,0.185,0.0,0.815,1,0,0
+1281,"“Anywhere you’d like to go, Mike?” Bill asked.",0.3612,0.3612,0.263,0.0,0.737,1,0,0
+1282,It might do my credit good.,0.6705,0.6705,0.579,0.0,0.421,1,0,0
+1283,I’d like to see the coast.,0.3612,0.3612,0.333,0.0,0.667,1,0,0
+1284,"Let’s drive down toward Hendaye.” “I haven’t any credit along the coast.” “You can’t ever tell,” said Bill.",0.3818,0.3818,0.133,0.0,0.867,1,0,0
+1285,It seemed the last thing that connected me with Spain and the fiesta.,0.4767,0.4767,0.205,0.0,0.795,1,0,0
+1286,"There was a safe, suburban feeling.",0.5267,0.5267,0.595,0.0,0.405,1,0,0
+1287,I was through with fiestas for a while.,0.3612,0.3612,0.333,0.0,0.667,1,0,0
+1288,I could get a good hotel room and read and swim.,0.4404,0.4404,0.266,0.0,0.734,1,0,0
+1289,There was a fine beach there.,0.2023,0.2023,0.31,0.0,0.69,1,0,0
+1290,"There were wonderful trees along the promenade above the beach, and there were many children sent down with their nurses before the season opened.",0.5719,0.5719,0.139,0.0,0.861,1,0,0
+1291,Very well.,0.3384,0.3384,0.705,0.0,0.295,1,0,0
+1292,It was a big meal for France but it seemed very carefully apportioned after Spain.,0.2936,0.2936,0.144,0.0,0.856,1,0,0
+1293,It was pleasant to be drinking slowly and to be tasting the wine and to be drinking alone.,0.3182,0.3182,0.155,0.094,0.751,1,0,0
+1294,A bottle of wine was good company.,0.4404,0.4404,0.367,0.0,0.633,1,0,0
+1295,The waiter recommended a Basque liqueur called Izzarra.,0.2023,0.2023,0.231,0.0,0.769,1,0,0
+1296,It looked like hair-oil and smelled like Italian _strega_.,0.6124,0.6124,0.417,0.0,0.583,1,0,0
+1297,The _marc_ was good.,0.4404,0.4404,0.492,0.0,0.508,1,0,0
+1298,That made him happy.,0.5719,0.5719,0.552,0.0,0.448,1,0,0
+1299,It felt comfortable to be in a country where it is so simple to make people happy.,0.7906,0.7906,0.333,0.0,0.667,1,0,0
+1300,You can never tell whether a Spanish waiter will thank you.,0.3612,0.3612,0.217,0.0,0.783,1,0,0
+1301,Everything is on such a clear financial basis in France.,0.3818,0.3818,0.245,0.0,0.755,1,0,0
+1302,No one makes things complicated by becoming your friend for any obscure reason.,0.25,0.25,0.195,0.134,0.671,1,0,0
+1303,If you want people to like you you have only to spend a little money.,0.4215,0.4215,0.241,0.0,0.759,1,0,0
+1304,I spent a little money and the waiter liked me.,0.4215,0.4215,0.286,0.0,0.714,1,0,0
+1305,He appreciated my valuable qualities.,0.7506,0.7506,0.681,0.0,0.319,1,0,0
+1306,He would be glad to see me back.,0.4588,0.4588,0.3,0.0,0.7,1,0,0
+1307,"I would dine there again some time and he would be glad to see me, and would want me at his table.",0.5106,0.5106,0.185,0.0,0.815,1,0,0
+1308,It would be a sincere liking because it would have a sound basis.,0.6597,0.6597,0.375,0.0,0.625,1,0,0
+1309,"Next morning I tipped every one a little too much at the hotel to make more friends, and left on the morning train for San Sebastian.",0.5256,0.5256,0.129,0.0,0.871,1,0,0
+1310,I only wanted a few good French friends in Bayonne to make me welcome in case I should come back there again.,0.8402,0.8402,0.36,0.0,0.64,1,0,0
+1311,I knew that if they remembered me their friendship would be loyal.,0.7184,0.7184,0.4,0.0,0.6,1,0,0
+1312,Even on a hot day San Sebastian has a certain early-morning quality.,0.2732,0.2732,0.189,0.0,0.811,1,0,0
+1313,It is always cool and shady on certain streets on the hottest day.,0.5267,0.5267,0.286,0.0,0.714,1,0,0
+1314,The sand was warm under bare feet.,0.2263,0.2263,0.241,0.0,0.759,1,0,0
+1315,"They came in like undulations in the water, gathered weight of water, and then broke smoothly on the warm sand.",0.1531,0.1531,0.182,0.116,0.702,1,0,0
+1316,The girl had undone the top strap of her bathing-suit and was browning her back.,0.2023,0.2023,0.114,0.0,0.886,1,0,0
+1317,"She laughed at things he said, and turned her brown back in the sun.",0.4588,0.4588,0.188,0.0,0.812,1,0,0
+1318,"I lay on the beach until I was dry, then went into the bathing-cabin, took off my suit, sloshed myself with fresh water, and rubbed dry.",0.3182,0.3182,0.091,0.0,0.909,1,0,0
+1319,"I walked around the harbor under the trees to the casino, and then up one of the cool streets to the Café Marinas.",0.3182,0.3182,0.099,0.0,0.901,1,0,0
+1320,"There was an orchestra playing inside the café and I sat out on the terrace and enjoyed the fresh coolness in the hot day, and had a glass of lemon-juice and shaved ice and then a long whiskey and soda.",0.7506,0.7506,0.179,0.0,0.821,1,0,0
+1321,"They were all French and Belgians, and paid close attention to their meal, but they were having a good time.",0.5927,0.5927,0.176,0.0,0.824,1,0,0
+1322,"At the head of the table were two good-looking French girls, with much Rue du Faubourg Montmartre chic.",0.2732,0.2732,0.11,0.0,0.89,1,0,0
+1323,They all spoke in slang at the long table and there were many private jokes and some jokes at the far end that were not repeated when the girls asked to hear them.,0.4588,0.4588,0.114,0.0,0.886,1,0,0
+1324,They had raced among themselves so often that it did not make much difference who won.,0.5719,0.5719,0.198,0.0,0.802,1,0,0
+1325,The other riders joked him about his boils.,0.3182,0.3182,0.247,0.0,0.753,1,0,0
+1326,"“Listen,” he said, “to-morrow my nose is so tight on the handle-bars that the only thing touches those boils is a lovely breeze.” One of the girls looked at him down the table, and he grinned and turned red.",0.7096,0.7096,0.141,0.0,0.859,1,0,0
+1327,"He said it had been a very pleasant race, and would have been worth watching if Bottechia had not abandoned it at Pamplona.",0.789,0.789,0.296,0.0,0.704,1,0,0
+1328,"The dust had been bad, but in Spain the roads were better than in France.",0.3818,0.3818,0.202,0.118,0.681,1,0,0
+1329,The Tour de France was the greatest sporting event in the world.,0.6369,0.6369,0.276,0.0,0.724,1,0,0
+1330,Look at the number of motor-cars now that followed the riders from town to town in a road race.,0.0772,0.0772,0.071,0.0,0.929,1,0,0
+1331,It was a rich country and more _sportif_ every year.,0.5574,0.5574,0.31,0.0,0.69,1,0,0
+1332,I certainly would.,0.34,0.34,0.706,0.0,0.294,1,0,0
+1333,We certainly would.,0.34,0.34,0.545,0.0,0.455,1,0,0
+1334,I would certainly try to.,0.34,0.34,0.444,0.0,0.556,1,0,0
+1335,Would I like him to call me?,0.3612,0.3612,0.333,0.0,0.667,1,0,0
+1336,It was very interesting.,0.4576,0.4576,0.499,0.0,0.501,1,0,0
+1337,Everything was fresh and cool and damp in the early morning.,0.5574,0.5574,0.338,0.0,0.662,1,0,0
+1338,The Spanish children were beautiful.,0.5994,0.5994,0.494,0.0,0.506,1,0,0
+1339,The tide was in and there was a good breeze and a surf on the beach.,0.4404,0.4404,0.182,0.0,0.818,1,0,0
+1340,The water was buoyant and cold.,0.2263,0.2263,0.275,0.0,0.725,1,0,0
+1341,"I swam slowly, it seemed like a long swim with the high tide, and then pulled up on the raft and sat, dripping, on the boards that were becoming hot in the sun.",0.3612,0.3612,0.077,0.0,0.923,1,0,0
+1342,"The bicycle-racers had left several copies of _L’Auto_ around, and I gathered them up in the reading-room and took them out and sat in an easy chair in the sun to read about and catch up on French sporting life.",0.4404,0.4404,0.071,0.0,0.929,1,0,0
+1343,While I was sitting there the concierge came out with a blue envelope in his hand.,0.4939,0.4939,0.198,0.0,0.802,1,0,0
+1344,"Do you want the money now?” “Just as you wish,” he said.",0.0772,0.0772,0.106,0.0,0.894,1,0,0
+1345,"“Bring me a telegram form, please.” He brought it and I took out my fountain-pen and printed:                    LADY ASHLEY HOTEL MONTANA MADRID                    ARRIVING SUD EXPRESS TOMORROW LOVE                    JAKE.",0.7125,0.7125,0.165,0.0,0.835,1,0,0
+1346,And sign the wire with love.,0.6369,0.6369,0.457,0.0,0.543,1,0,0
+1347,"I saw the Escorial out of the window, gray and long and cold in the sun, and did not give a damn about it.",0.3089,0.3089,0.097,0.0,0.903,1,0,0
+1348,"I saw Madrid come up over the plain, a compact white sky-line on the top of a little cliff away off across the sun-hardened country.",0.2023,0.2023,0.079,0.0,0.921,1,0,0
+1349,It was like a country town.,0.3612,0.3612,0.385,0.0,0.615,1,0,0
+1350,The windows on the sunny side of the street were shuttered.,0.4215,0.4215,0.219,0.0,0.781,1,0,0
+1351,I would like to see this English lady.” “Muy buenos.,0.3612,0.3612,0.238,0.0,0.762,1,0,0
+1352,"Yes, there is a female English.",0.4019,0.4019,0.403,0.0,0.597,1,0,0
+1353,"Certainly you can see her if she wishes to see you.” “She wishes to see me.” “The chica will ask her.” “It is very hot.” “It is very hot in the summer in Madrid.” “And how cold in winter.” “Yes, it is very cold in winter.” Did I want to stay myself in person in the Hotel Montana?",0.5994,0.5994,0.115,0.0,0.885,1,0,0
+1354,"Of that as yet I was undecided, but it would give me pleasure if my bags were brought up from the ground floor in order that they might not be stolen.",0.8419,0.8419,0.23,0.039,0.731,1,0,0
+1355,Nothing was ever stolen in the Hotel Montana.,0.3875,0.3875,0.273,0.0,0.727,1,0,0
+1356,"In other fondas, yes.",0.4019,0.4019,0.474,0.0,0.526,1,0,0
+1357,I was happy to hear it.,0.5719,0.5719,0.481,0.0,0.519,1,0,0
+1358,Nevertheless I would welcome the upbringal of my bags.,0.4588,0.4588,0.3,0.0,0.7,1,0,0
+1359,She had just been brushing her hair and held the brush in her hand.,0.4939,0.4939,0.198,0.0,0.802,1,0,0
+1360,"She kissed me, and while she kissed me I could feel she was thinking of something else.",0.6369,0.6369,0.271,0.0,0.729,1,0,0
+1361,I’d look so like hell.” “It’s funny.” “He said it would make me more womanly.,0.5009,0.5009,0.188,0.0,0.812,1,0,0
+1362,"There were some funny things, though.",0.4404,0.4404,0.367,0.0,0.633,1,0,0
+1363,He wanted to make it sure I could never go away from him.,0.3182,0.3182,0.173,0.0,0.827,1,0,0
+1364,"I feel rather good, you know.",0.4404,0.4404,0.42,0.0,0.58,1,0,0
+1365,"“But, oh, Jake, please let’s never talk about it.” We left the Hotel Montana.",0.3182,0.3182,0.15,0.0,0.85,1,0,0
+1366,The woman who ran the hotel would not let me pay the bill.,0.0762,0.0762,0.097,0.0,0.903,1,0,0
+1367,"“Oh, well.",0.2732,0.2732,0.677,0.0,0.323,1,0,0
+1368,"“It’s funny what a wonderful gentility you get in the bar of a big hotel,” I said.",0.765,0.765,0.355,0.0,0.645,1,0,0
+1369,"“Barmen and jockeys are the only people who are polite any more.” “No matter how vulgar a hotel is, the bar is always nice.” “It’s odd.” “Bartenders have always been fine.” “You know,” Brett said, “it’s quite true.",0.4927,0.4927,0.107,0.0,0.893,1,0,0
+1370,"“I like an olive in a Martini,” I said to the barman.",0.3612,0.3612,0.217,0.0,0.783,1,0,0
+1371,Her hand was steady enough to lift it after that first sip.,0.4939,0.4939,0.225,0.0,0.775,1,0,0
+1372,“It’s good.,0.4404,0.4404,0.744,0.0,0.256,1,0,0
+1373,Isn’t it a nice bar?” “They’re all nice bars.” “You know I didn’t believe it at first.,0.6808,0.6808,0.301,0.0,0.699,1,0,0
+1374,"_Would_ you buy a lady a drink?” “We’ll have two more Martinis.” “As they were before, sir?” “They were very good.” Brett smiled at him.",0.6278,0.6278,0.158,0.0,0.842,1,0,0
+1375,"You know I feel rather damned good, Jake.” “You should.” “You know it makes one feel rather good deciding not to be a bitch.” “Yes.” “It’s sort of what we have instead of God.” “Some people have God,” I said.",0.4939,0.4939,0.137,0.061,0.802,1,0,0
+1376,The bar was cool.,0.3182,0.3182,0.434,0.0,0.566,1,0,0
+1377,Would you like to have me write out the address?” “Thank you.” We lunched up-stairs at Botin’s.,0.3612,0.3612,0.135,0.0,0.865,1,0,0
+1378,It is one of the best restaurants in the world.,0.6369,0.6369,0.318,0.0,0.682,1,0,0
+1379,“My God!,0.3382,0.3382,0.705,0.0,0.295,1,0,0
+1380,what a meal you’ve eaten.” “I feel fine.,0.2023,0.2023,0.231,0.0,0.769,1,0,0
+1381,"Do you want a dessert?” “Lord, no.” Brett was smoking.",0.0772,0.0772,0.14,0.0,0.86,1,0,0
+1382,"“You like to eat, don’t you?” she said.",0.3612,0.3612,0.263,0.0,0.737,1,0,0
+1383,"“I like to do a lot of things.” “What do you like to do?” “Oh,” I said, “I like to do a lot of things.",0.7579,0.7579,0.283,0.0,0.717,1,0,0
+1384,"Don’t you want a dessert?” “You asked me that once,” Brett said.",0.0772,0.0772,0.115,0.0,0.885,1,0,0
+1385,Brett put her hand on my arm.,0.4939,0.4939,0.348,0.0,0.652,1,0,0
+1386,"I like to drink wine.” “Don’t get drunk,” she said.",0.3612,0.3612,0.238,0.0,0.762,1,0,0
+1387,It was hot and bright.,0.4404,0.4404,0.42,0.0,0.58,1,0,0
+1388,I put my arm around her and she rested against me comfortably.,0.4215,0.4215,0.219,0.0,0.781,1,0,0
+1389,"It was very hot and bright, and the houses looked sharply white.",0.4877,0.4877,0.223,0.0,0.777,1,0,0
+1390,"“Oh, Jake,” Brett said, “we could have had such a damned good time together.” Ahead was a mounted policeman in khaki directing traffic.",0.0772,0.0772,0.118,0.106,0.776,1,0,0
+1391,“Isn’t it pretty to think so?”,0.4939,0.4939,0.39,0.0,0.61,1,0,0
